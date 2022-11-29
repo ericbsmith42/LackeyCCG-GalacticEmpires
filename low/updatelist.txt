@@ -1,8 +1,8 @@
 galacticempires	11-29-22
 plugins/galacticempires/version.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt	37037
-plugins/galacticempires/CardImageURLs.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/CardImageURLs.txt	51569241
-plugins/galacticempires/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/general/spawned.jpg	118
-plugins/galacticempires/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/general/cardback.jpg	2290
+plugins/galacticempires/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/spawned.jpg	118
+plugins/galacticempires/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/cardback.jpg	2290
+plugins/galacticempires/uninstall.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/uninstall.txt	8696
 plugins/galacticempires/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/pluginpreferences.txt	0
 plugins/galacticempires/bot.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/bot.jpg	-5066
 plugins/galacticempires/sounds/welcome.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/welcome.wav	47230
@@ -86,8 +86,5 @@ plugins/galacticempires/packs/Series_6_AT_Booster_Cover.jpg	https://raw.githubus
 plugins/galacticempires/packs/Series_7_Pir_Booster_Cover.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_7_Pir_Booster_Cover.jpg	4488
 plugins/galacticempires/packs/Series_9_Per_Booster_Cover.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_9_Per_Booster_Cover.jpg	1713
 plugins/galacticempires/packs/Series_U_UE_Booster_Cover.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_U_UE_Booster_Cover.jpg	10573
-CardURLFiles:
-CardImageURLs.txt
-
 CardGeneralURLs:
-https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/
+https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/
