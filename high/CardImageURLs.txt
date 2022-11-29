@@ -1,4 +1,4 @@
-CardImageURLs:	
+CardImageURLs:
 Pro/HQ25_-_Sector_HQ_Pro8.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/Pro/HQ25_-_Sector_HQ_Pro8.jpg
 CC/A1_-_-Ace_of_Clubs-_CC.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/CC/A1_-_-Ace_of_Clubs-_CC.jpg
 CC/A1_-_Ace_of_Clubs_CC.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/CC/A1_-_Ace_of_Clubs_CC.jpg
