@@ -1,7 +1,7 @@
 <pluginpreferences>
 
 <lastversionupdate>221129</lastversionupdate>
-<counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
+<counterstyleimagesizetextoverimage>15</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>Black_And_White</recentskins>
 <recentskins>default_white</recentskins>
@@ -112,7 +112,7 @@
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
-<scalefactor>1.980000</scalefactor>
+<scalefactor>2.050000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
 <panx>-0.030000</panx>
