@@ -1,0 +1,28 @@
+<deck version="0.8">
+	<meta>
+		<game>galacticempires</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="E5_-_Psycanti_Intellect_Fighter_Per">E5 Psycanti Fighter - Psycanti Intellect Fighter (Per)</name><set>Per</set></card>
+		<card><name id="P7_-_Psycanti_Duelist_PoM">P7 Psycanti Duelist (PoM)</name><set>PoM</set></card>
+		<card><name id="P7_-_Psycanti_Duelist_PoM">P7 Psycanti Duelist (PoM)</name><set>PoM</set></card>
+		<card><name id="P6_-_Psycanti_Commandant_PoM">P6 Psycanti Commandant (PoM)</name><set>PoM</set></card>
+		<card><name id="P5_-_Psycanti_Apostle_PoM">P5 Psycanti Apostle (PoM)</name><set>PoM</set></card>
+		<card><name id="P5_-_Psycanti_Apostle_PoM">P5 Psycanti Apostle (PoM)</name><set>PoM</set></card>
+		<card><name id="P4_-_Psycanti_Kineticist_PoM">P4 Psycanti Kineticist (PoM)</name><set>PoM</set></card>
+		<card><name id="P4_-_Psycanti_Kineticist_PoM">P4 Psycanti Kineticist (PoM)</name><set>PoM</set></card>
+		<card><name id="P4_-_Psycanti_Defender_PoM">P4 Psycanti Defender (PoM)</name><set>PoM</set></card>
+		<card><name id="P3_-_Psycanti_Occultist_PoM">P3 Psycanti Occultist (PoM)</name><set>PoM</set></card>
+		<card><name id="P2_-_Psycanti_Apprentice_PoM">P2 Psycanti Apprentice (PoM)</name><set>PoM</set></card>
+		<card><name id="P1_-_Psycanti_Muse_PoM">P1 Psycanti Muse (PoM)</name><set>PoM</set></card>
+		<card><name id="F4_-_Psycanti_Field_PoM">F4 Psycanti Field (PoM)</name><set>PoM</set></card>
+		<card><name id="T5_-_Planet_-_Psycanti_Planetesimal_PoM">T5 Planet - Psycanti Planetesimal (PoM)</name><set>PoM</set></card>
+		<card><name id="T5_-_Planet_-_Psycanti_Planetesimal_PoM">T5 Planet - Psycanti Planetesimal (PoM)</name><set>PoM</set></card>
+		<card><name id="F1_-_Minor_Terrain_Field_PoM">F1 Minor Terrain Field (PoM)</name><set>PoM</set></card>
+		<card><name id="F2_-_Lesser_Healing_Field_PoM">F2 Lesser Healing Field (PoM)</name><set>PoM</set></card>
+		<card><name id="F3_-_Field_of_Minor_Wilding_PoM">F3 Field of Minor Wilding (PoM)</name><set>PoM</set></card>
+		<card><name id="F5_-_Stellar_Field_PoM">F5 Stellar Field (PoM)</name><set>PoM</set></card>
+		<card><name id="P8_-_Psycanti_Paladin_PoM">P8 Psycanti Paladin (PoM)</name><set>PoM</set></card>
+		<card><name id="B5_-_Psycanti_Projection_Station_PoM">B5 Psycanti Projection Station (PoM)</name><set>PoM</set></card>
+	</superzone>
+</deck>
