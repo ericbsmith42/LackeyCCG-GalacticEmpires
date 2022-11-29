@@ -1,12 +1,14 @@
 <pluginpreferences>
 
-<lastversionupdate>221128</lastversionupdate>
+<lastversionupdate>221129</lastversionupdate>
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>Black_And_White</recentskins>
+<recentskins>default_white</recentskins>
+<recentskins>vtes</recentskins>
 <recentskins>default</recentskins>
 <recenttablebackgrounds>GEplaymat2.jpg</recenttablebackgrounds>
-<recentzonebackgrounds>defaultzonebackground.jpg</recentzonebackgrounds>
+<recentzonebackgrounds>wide.jpg</recentzonebackgrounds>
 <recentzonebackgrounds>GEplaymat.jpg</recentzonebackgrounds>
 <canned>PoP? (Pass or Play?)</canned>
 <canned>Pass.</canned>
@@ -76,6 +78,8 @@
 <bindinggeneral9>CTRL+z</bindinggeneral9>
 <bindinggeneral10>META+RIGHT</bindinggeneral10>
 <bindinggeneral11>CTRL+w</bindinggeneral11>
+<bindinggeneral12>F10</bindinggeneral12>
+<bindinggeneral13>CTRL+ALT+1</bindinggeneral13>
 <bindingcard0>BACKSPACE</bindingcard0>
 <bindingcard1>ALT+q</bindingcard1>
 <bindingcard2>CTRL+EQUALS</bindingcard2>
@@ -88,6 +92,10 @@
 <bindingcard9>ALT+s</bindingcard9>
 <bindingcard10>META+b</bindingcard10>
 <bindingcard11>ALT+d</bindingcard11>
+<bindingcard12>CTRL+SHIFT+d</bindingcard12>
+<bindingcard14>CTRL+SHIFT+z</bindingcard14>
+<bindingcard15>CTRL+x</bindingcard15>
+<bindingcard16>CTRL+SHIFT+x</bindingcard16>
 <bindingcanned0>CTRL+1</bindingcanned0>
 <bindingcanned1>CTRL+2</bindingcanned1>
 <bindingcanned2>CTRL+3</bindingcanned2>
@@ -97,6 +105,8 @@
 <bindingcanned6>CTRL+7</bindingcanned6>
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
+<bindingcanned11>CTRL+SHIFT+1</bindingcanned11>
+<bindingcanned12>CTRL+SHIFT+3</bindingcanned12>
 <bindingcanned13>CTRL+0</bindingcanned13>
 <libraryignoredoubles>1</libraryignoredoubles>
 <recentformat>-1</recentformat>
@@ -107,6 +117,7 @@
 <quickzoom>4.000000</quickzoom>
 <panx>-0.030000</panx>
 <pany>-0.030000</pany>
+<tilt>26.000000</tilt>
 <prevtilt>26.000000</prevtilt>
 <isdownloadallmissing>1</isdownloadallmissing>
 
