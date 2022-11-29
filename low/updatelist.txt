@@ -1,6 +1,6 @@
 galacticempires	11-29-22
 plugins/galacticempires/version.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt	37030
-plugins/galacticempires/CardImageURLs.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/CardImageURLs.txt	4971243
+plugins/galacticempires/CardImageURLs.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/CardImageURLs.txt	497124
 plugins/galacticempires/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/general/spawned.jpg	118
 plugins/galacticempires/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/general/cardback.jpg	2290
 plugins/galacticempires/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/pluginpreferences.txt	0
