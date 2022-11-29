@@ -1,0 +1,6 @@
+<uninstall>
+
+<dateYYMMDD>221129</dateYYMMDD>
+<removepath>CardImageURLs.txt</removepath>
+
+</uninstall>
