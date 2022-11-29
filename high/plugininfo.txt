@@ -11,7 +11,9 @@
 <playerstat><label>Repair/Healing Produced</label><initialvalue>0</initialvalue></playerstat>
 
 <deckzone><label>Deck</label><shuffle>yes</shuffle></deckzone>
+<deckzone><label>Reserve Fleet</label></deckzone>
 <deckzone><label>Reference</label></deckzone>
+
 <gamezone><label>Hand</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
 <gamezone><label>Deck</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
 <gamezone><label>Discard</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>

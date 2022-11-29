@@ -14,7 +14,7 @@ plugins/galacticempires/sounds/phase4.wav	https://raw.githubusercontent.com/eric
 plugins/galacticempires/sounds/phase5.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/phase5.wav	-401868
 plugins/galacticempires/sounds/phase6.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/phase6.wav	-301881
 plugins/galacticempires/sounds/phase7.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/phase7.wav	-419918
-plugins/galacticempires/plugininfo.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/plugininfo.txt	590527
+plugins/galacticempires/plugininfo.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/plugininfo.txt	595095
 plugins/galacticempires/packs/packdefinitions1.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions1.xml	21871857
 plugins/galacticempires/sets/carddata.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/carddata.txt	70800917
 images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	-307373
