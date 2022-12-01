@@ -2148,7 +2148,7 @@
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S6 Tarra'ki Heavy War Cruiser (AF)</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>T9 Nebula - Tarra'ki Homecloud Expanse (AF)</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Tarra'ki Sector HQ (AF)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Tarra'ki Aux. Shields xxxx Positron Emitter Rules (AF)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Tarra'ki Aux. Shields and Positron Emitter Rules (AF)</data></crit></kind>
 			<kind><qty>6</qty>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
