@@ -60,14 +60,7 @@
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>NE</data></packcommoncrit>
 		<chance>
-			<prob>1</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>28</prob>
+			<prob>17</prob>
 			<kind><qty>1</qty>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>C</data></crit>
@@ -75,14 +68,14 @@
 			</kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 		</chance>
 		<chance>
-			<prob>71</prob>
+			<prob>83</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 		</chance>
 </pack>
 
@@ -145,8 +138,6 @@
 		</chance>
 </pack>
 
-
-
 <pack><packtitle>U) Universe Edition $2.45</packtitle>
 	<packimage>Series_U_UE_Booster_Pack</packimage>
 	<packformat>Standard</packformat>
@@ -161,12 +152,9 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
 		<chance><prob>1</prob>
@@ -178,12 +166,9 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
 		<chance><prob>1</prob>
@@ -195,16 +180,83 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
 		<chance><prob>1</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>2</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>2</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>3</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>1</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>3</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
@@ -212,15 +264,82 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
-		<chance><prob>6</prob>
+		<chance><prob>3</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>1</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>2</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>2</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>3</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>5</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
@@ -229,12 +348,37 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>6</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>3</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
 			</kind>
 		</chance>
 		<chance><prob>5</prob>
@@ -246,12 +390,9 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
 		<chance><prob>6</prob>
@@ -263,32 +404,26 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
-		<chance><prob>6</prob>
+		<chance><prob>2</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
-		<chance><prob>4</prob>
+		<chance><prob>5</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
@@ -297,46 +432,9 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>3</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>4</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
 		<chance><prob>4</prob>
@@ -348,267 +446,9 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>2</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>3</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>3</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>3</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>3</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>3</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>3</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>3</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>3</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>2</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>2</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>2</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>2</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>2</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>2</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
 		<chance><prob>2</prob>
@@ -620,182 +460,79 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
-		<chance><prob>2</prob>
+		<chance><prob>3</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
-		<chance><prob>2</prob>
+		<chance><prob>3</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>2</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>2</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
 		<chance><prob>2</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>2</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>1</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
-		<chance><prob>1</prob>
+		<chance><prob>3</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
-		<chance><prob>1</prob>
+		<chance><prob>4</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
-			</kind>
-		</chance>
-		<chance><prob>1</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
-			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
 		</chance>
 		<chance><prob>1</prob>
@@ -807,12 +544,121 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>2</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>2</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>1</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>3</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>3</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>1</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>2</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>2</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
 			</kind>
 		</chance>
 		<chance><prob>1</prob>
@@ -824,12 +670,37 @@
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 			<kind><qty>3</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>2</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+		</chance>
+		<chance><prob>1</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
 			</kind>
 		</chance>
 </pack>
@@ -882,18 +753,13 @@
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>Pir</data></packcommoncrit>
 		<chance>
-			<prob>1</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>6</prob>
+			<prob>27</prob>
 			<kind><qty>1</qty>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit></kind>
 			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		</chance>
 		<chance>
-			<prob>93</prob>
+			<prob>73</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
 			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		</chance>
@@ -905,18 +771,13 @@
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>Per</data></packcommoncrit>
 		<chance>
-			<prob>1</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>6</prob>
+			<prob>27</prob>
 			<kind><qty>1</qty>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		</chance>
 		<chance>
-			<prob>93</prob>
+			<prob>73</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		</chance>
@@ -1103,12 +964,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -1147,12 +1005,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -1192,12 +1047,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -1238,12 +1090,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -1284,18 +1133,16 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 		</chance>
 </pack>
+
 <pack><packtitle>U) P.O.T. Universe Edition $12.95</packtitle>
 	<packimage>Series_U_UE_P.O.T._Starter_1</packimage>
 	<packformat>Standard</packformat>
@@ -1329,12 +1176,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -1374,12 +1218,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -1426,12 +1267,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -1473,12 +1311,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -1517,12 +1352,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -1536,345 +1368,32 @@
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
-			<prob>25</prob>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>CC</data></crit><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Steak Sauce [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A2 Speaking Part [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A3 Admiral's Rear [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B1 Eat at Joe's [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B3 Arduous Study [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Barmaid [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Pizza Delivery Alien - P.D.A. [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Used Spaceship Dealer - A.K.A. Bob [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>36C Buffy the Time Knight Slayer [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C4 Night Club Comedian [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Clown Car - Clown Car Shuttle [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H5 Time Accelerant [1/3] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Coffee House [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Sign Post [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I2 Fast Food Franchise [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I2 Kitty Cat Club [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Captain's Bluff [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Gentlealien's Club [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I6 Psychiatric Ward [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I7 Clown College [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L5 Lucky Mime Explosion [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L5 Unlucky Mime Explosion [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L9 What's This Button For? [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O4 Mime Intrusion [1/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Ace of Clubs (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 [Ace of Clubs] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Mime Pajamas (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A4 Chakan's Hat (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A4 Holographic Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A6 Soft Chewy Center of the Planet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A7 Face Paint (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B2 Donut Shop (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B4 Home Base (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B5 Cinema (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B6 Defensive Satellites (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Sales Representative (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Super Model (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 The Ensign in the Red Shirt (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Game Designer - Wanna-be Game Designer (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C2 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C3 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C4 Mad Scientist (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C4 The Commodores (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C5/5 Mime Knight (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C6 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C6 Night Club Comedian (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C8 Groupie (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C8 Heckler (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C9 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>D5 Kung Fu Dragon (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 Shuttlebus (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 The Club (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Mime Protection Chamber - MP Chamber (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E3 Molecular Transporter (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E4 Derelict Fighter (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E5 Mime Rack (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H1 The Old Switcheroo (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H2 Warp Funnel Cakes (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H7 Either Dragoness (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Comedy Club Sector HQ (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Road Sign [1/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Road Sign [2/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I3 Bouncer Training Facility (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I3 The Club [1/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I3 The Club [2/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Lead Balloon Factory (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Lobster Market (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I5 Bob's Used Spaceship Lot (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I5 Comet Control (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I8 Casino (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I9 Sahnadrei's Weapon Shop (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L2 Time Gait (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L2 Time Hiccup (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L2 You Missed Me By That Much (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L3 Twist of Fate II (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L8 Call it Good (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M1 Space Penguin (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M2 Space Penguin (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M3 Money Hungry Weasels (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M4 Space Penguin (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M5 Mime Control Beast (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O3 Sabot Tour (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O7 Poker Night (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O7 We Have Special Plans for this Card (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O/B1 Kenobi (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S1 Ship From The Present (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S3 Lobster Boat (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S6 Protest Ship (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T3 Planet - Rubber Ball Planet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T4 Comet - Out of Control Comet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T5 Planet - Earth (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T5 Planet - Mime Homeworld (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T6 Planet - Garbage Planet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T6 In Phase World (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T7 Nebula - Lobster Nebula (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T8 8-Ball (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T8 Planet - Salt Water World (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T/A1 Shameless Argonian Sunbathing Nude (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T/B1/9 Vektrean Asteroid Outhouse (CC)</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>25</prob>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>CC</data></crit><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Steak Sauce [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A2 Speaking Part [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A3 Admiral's Rear [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B1 Eat at Joe's [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B3 Arduous Study [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Barmaid [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Pizza Delivery Alien - P.D.A. [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Used Spaceship Dealer - A.K.A. Bob [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>36C Buffy the Time Knight Slayer [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C4 Night Club Comedian [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Clown Car - Clown Car Shuttle [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H5 Time Accelerant [2/3] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Coffee House [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Sign Post [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I2 Fast Food Franchise [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I2 Kitty Cat Club [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Captain's Bluff [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Gentlealien's Club [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I6 Psychiatric Ward [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I7 Clown College [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L5 Lucky Mime Explosion [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L5 Unlucky Mime Explosion [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L9 What's This Button For? [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O4 Mime Intrusion [2/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Ace of Clubs (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 [Ace of Clubs] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Mime Pajamas (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A4 Chakan's Hat (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A4 Holographic Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A6 Soft Chewy Center of the Planet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A7 Face Paint (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B2 Donut Shop (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B4 Home Base (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B5 Cinema (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B6 Defensive Satellites (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Sales Representative (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Super Model (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 The Ensign in the Red Shirt (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Game Designer - Wanna-be Game Designer (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C2 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C3 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C4 Mad Scientist (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C4 The Commodores (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C5/5 Mime Knight (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C6 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C6 Night Club Comedian (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C8 Groupie (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C8 Heckler (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C9 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>D5 Kung Fu Dragon (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 Shuttlebus (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 The Club (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Mime Protection Chamber - MP Chamber (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E3 Molecular Transporter (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E4 Derelict Fighter (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E5 Mime Rack (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H1 The Old Switcheroo (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H2 Warp Funnel Cakes (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H7 Either Dragoness (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Comedy Club Sector HQ (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Road Sign [1/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Road Sign [2/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I3 Bouncer Training Facility (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I3 The Club [1/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I3 The Club [2/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Lead Balloon Factory (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Lobster Market (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I5 Bob's Used Spaceship Lot (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I5 Comet Control (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I8 Casino (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I9 Sahnadrei's Weapon Shop (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L2 Time Gait (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L2 Time Hiccup (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L2 You Missed Me By That Much (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L3 Twist of Fate II (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L8 Call it Good (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M1 Space Penguin (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M2 Space Penguin (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M3 Money Hungry Weasels (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M4 Space Penguin (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M5 Mime Control Beast (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O3 Sabot Tour (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O7 Poker Night (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O7 We Have Special Plans for this Card (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O/B1 Kenobi (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S1 Ship From The Present (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S3 Lobster Boat (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S6 Protest Ship (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T3 Planet - Rubber Ball Planet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T4 Comet - Out of Control Comet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T5 Planet - Earth (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T5 Planet - Mime Homeworld (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T6 Planet - Garbage Planet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T6 In Phase World (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T7 Nebula - Lobster Nebula (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T8 8-Ball (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T8 Planet - Salt Water World (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T/A1 Shameless Argonian Sunbathing Nude (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T/B1/9 Vektrean Asteroid Outhouse (CC)</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>25</prob>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>CC</data></crit><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Steak Sauce [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A2 Speaking Part [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A3 Admiral's Rear [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B1 Eat at Joe's [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B3 Arduous Study [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Barmaid [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Pizza Delivery Alien - P.D.A. [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Used Spaceship Dealer - A.K.A. Bob [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>36C Buffy the Time Knight Slayer [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C4 Night Club Comedian [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Clown Car - Clown Car Shuttle [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H5 Time Accelerant [3/3] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Coffee House [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Sign Post [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I2 Fast Food Franchise [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I2 Kitty Cat Club [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Captain's Bluff [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Gentlealien's Club [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I6 Psychiatric Ward [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I7 Clown College [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L5 Lucky Mime Explosion [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L5 Unlucky Mime Explosion [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L9 What's This Button For? [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O4 Mime Intrusion [3/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Ace of Clubs (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 [Ace of Clubs] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Mime Pajamas (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A4 Chakan's Hat (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A4 Holographic Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A6 Soft Chewy Center of the Planet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A7 Face Paint (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B2 Donut Shop (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B4 Home Base (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B5 Cinema (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B6 Defensive Satellites (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Sales Representative (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Super Model (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 The Ensign in the Red Shirt (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Game Designer - Wanna-be Game Designer (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C2 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C3 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C4 Mad Scientist (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C4 The Commodores (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C5/5 Mime Knight (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C6 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C6 Night Club Comedian (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C8 Groupie (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C8 Heckler (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C9 Mime (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>D5 Kung Fu Dragon (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 Shuttlebus (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 The Club (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Mime Protection Chamber - MP Chamber (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E3 Molecular Transporter (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E4 Derelict Fighter (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E5 Mime Rack (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H1 The Old Switcheroo (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H2 Warp Funnel Cakes (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H7 Either Dragoness (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Comedy Club Sector HQ (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Road Sign [1/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Road Sign [2/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I3 Bouncer Training Facility (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I3 The Club [1/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I3 The Club [2/2] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Lead Balloon Factory (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Lobster Market (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I5 Bob's Used Spaceship Lot (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I5 Comet Control (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I8 Casino (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I9 Sahnadrei's Weapon Shop (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L2 Time Gait (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L2 Time Hiccup (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L2 You Missed Me By That Much (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L3 Twist of Fate II (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L8 Call it Good (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M1 Space Penguin (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M2 Space Penguin (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M3 Money Hungry Weasels (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M4 Space Penguin (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>M5 Mime Control Beast (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O3 Sabot Tour (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O7 Poker Night (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O7 We Have Special Plans for this Card (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O/B1 Kenobi (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S1 Ship From The Present (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S3 Lobster Boat (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S6 Protest Ship (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T3 Planet - Rubber Ball Planet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T4 Comet - Out of Control Comet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T5 Planet - Earth (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T5 Planet - Mime Homeworld (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T6 Planet - Garbage Planet (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T6 In Phase World (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T7 Nebula - Lobster Nebula (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T8 8-Ball (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T8 Planet - Salt Water World (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T/A1 Shameless Argonian Sunbathing Nude (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T/B1/9 Vektrean Asteroid Outhouse (CC)</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>25</prob>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>CC</data></crit><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Steak Sauce [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A2 Speaking Part [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A3 Admiral's Rear [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B1 Eat at Joe's [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B3 Arduous Study [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Barmaid [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Pizza Delivery Alien - P.D.A. [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Used Spaceship Dealer - A.K.A. Bob [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>36C Buffy the Time Knight Slayer [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C4 Night Club Comedian [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Clown Car - Clown Car Shuttle [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>H5 Time Accelerant [3/3] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Coffee House [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I1 Sign Post [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I2 Fast Food Franchise [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I2 Kitty Cat Club [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Captain's Bluff [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I4 Gentlealien's Club [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I6 Psychiatric Ward [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>I7 Clown College [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L5 Lucky Mime Explosion [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L5 Unlucky Mime Explosion [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>L9 What's This Button For? [4/4] (CC)</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>O4 Mime Intrusion [4/4] (CC)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>A1 Steak Sauce</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>A2 Speaking Part</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>A3 Admiral's Rear</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>B1 Eat at Joe's</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>B3 Arduous Study</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>C1 Barmaid</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>C1 Pizza Delivery Alien - P.D.A.</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>C1 Used Spaceship Dealer - A.K.A. Bob</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>36C Buffy the Time Knight Slayer</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>C4 Night Club Comedian</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>E2 Clown Car - Clown Car Shuttle</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>H5 Time Accelerant</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>I1 Coffee House</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>I1 Sign Post</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>I2 Fast Food Franchise</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>I2 Kitty Cat Club</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>I4 Captain's Bluff</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>I4 Gentlealien's Club</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>I6 Psychiatric Ward</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>I7 Clown College</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>L5 Lucky Mime Explosion</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>L5 Unlucky Mime Explosion</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>L9 What's This Button For?</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>CONTAINS</eval><data>O4 Mime Intrusion</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Ace of Clubs (CC)</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 [Ace of Clubs] (CC)</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A1 Mime Pajamas (CC)</data></crit></kind>
@@ -1993,12 +1512,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2041,12 +1557,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2086,12 +1599,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2132,12 +1642,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2179,12 +1686,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2226,12 +1730,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2273,12 +1774,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2336,12 +1834,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2400,12 +1895,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2446,12 +1938,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2495,12 +1984,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2544,12 +2030,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2589,12 +2072,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2637,12 +2117,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2686,12 +2163,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2749,12 +2223,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2813,12 +2284,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2861,12 +2329,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2906,12 +2371,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -2958,12 +2420,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -3009,12 +2468,9 @@
 			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 			<kind><qty>13</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
@@ -3071,7 +2527,7 @@
 			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
 			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 			<kind><qty>144</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>180</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>180</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 		</chance>
 </pack>
 
@@ -3107,16 +2563,16 @@
 			<prob>44</prob>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
 			<kind><qty>34</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>130</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>14</qty><crit><field>Rarity</field><eval>IS</eval><data>R1</data></crit></kind>
+			<kind><qty>65</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>79</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit></kind>
 			<kind><qty>252</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		</chance>
 		<chance>
 			<prob>56</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
 			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>130</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>14</qty><crit><field>Rarity</field><eval>IS</eval><data>R1</data></crit></kind>
+			<kind><qty>65</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>79</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit></kind>
 			<kind><qty>252</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		</chance>
 </pack>
@@ -3130,52 +2586,62 @@
 		<chance>
 			<prob>44</prob>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>133</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>34</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>155</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+			<kind><qty>133</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>8</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
-			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>34</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>14</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>13</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>9</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>13</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>9</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>3</data></crit></kind>
+			<kind><qty>12</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>12</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>4</data></crit></kind>
 			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
-			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>14</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
+			<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
 		</chance>
 		<chance>
 			<prob>56</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>133</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>155</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+			</kind>
+			<kind><qty>133</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
+			<kind><qty>8</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
 			</kind>
-			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>14</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>13</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
-			<kind><qty>9</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
-			<kind><qty>14</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>14</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
+			<kind><qty>13</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>9</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>3</data></crit></kind>
+			<kind><qty>12</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>12</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>4</data></crit></kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
+			<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
+			<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
 		</chance>
 </pack>
 
@@ -3186,11 +2652,30 @@
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>AT</data></packcommoncrit>
 		<chance>
+			<prob>16</prob>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
+ 			<kind><qty>69</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
+			<kind><qty>216</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>98</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+			</kind>
+			<kind><qty>42</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+		</chance>
+		<chance>
+			<prob>84</prob>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
  			<kind><qty>70</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>138</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 			<kind><qty>216</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>98</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+			</kind>
+			<kind><qty>42</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 		</chance>
 </pack>
 
