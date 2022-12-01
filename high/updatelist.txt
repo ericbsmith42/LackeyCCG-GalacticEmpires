@@ -20,6 +20,8 @@ plugins/galacticempires/sets/carddata.txt	https://raw.githubusercontent.com/eric
 images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	-307373
 images/backgrounds/GEplaymat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat.jpg	-45446
 images/backgrounds/GEplaymat2.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat2.jpg	-85389
+images/backgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/starfield.png	-85389
+images/zonebackgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/zonebackgrounds/starfield.png	-85389
 plugins/galacticempires/GERulebookV2.0.pdf	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/GERulebookV2.0.pdf	8838841
 plugins/galacticempires/decks/Basic_Deck_A.dek	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/decks/Basic_Deck_A.dek	431496
 plugins/galacticempires/decks/Basic_Deck_A_Argonian.dek	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/decks/Basic_Deck_A_Argonian.dek	417696
