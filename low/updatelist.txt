@@ -38,6 +38,7 @@ plugins/galacticempires/decks/Basic_Deck_C_Scorpead.dek	https://raw.githubuserco
 plugins/galacticempires/decks/Basic_Deck_C_Tufor.dek	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/decks/Basic_Deck_C_Tufor.dek	404241
 plugins/galacticempires/packs/Series_1_AB_Booster_Pack.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_1_AB_Booster_Pack.jpg	-41804
 plugins/galacticempires/packs/Series_1_BE_Basic_Deck_Front.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_1_BE_Basic_Deck_Front.jpg	-6496
+plugins/galacticempires/packs/Series_1_BE_Booster_Cover.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_1_BE_Booster_Cover.jpg	-4180
 plugins/galacticempires/packs/Series_10_GI_Aqaaran_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_10_GI_Aqaaran_Starter_1.jpg	-5576
 plugins/galacticempires/packs/Series_10_GI_Booster_Pack.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_10_GI_Booster_Pack.jpg	101
 plugins/galacticempires/packs/Series_10_GI_Gekonauak_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_10_GI_Gekonauak_Starter_1.jpg	-10338
