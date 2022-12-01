@@ -15,13 +15,13 @@ plugins/galacticempires/sounds/phase5.wav	https://raw.githubusercontent.com/eric
 plugins/galacticempires/sounds/phase6.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/phase6.wav	-301881
 plugins/galacticempires/sounds/phase7.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/phase7.wav	-419918
 plugins/galacticempires/plugininfo.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/plugininfo.txt	595095
-plugins/galacticempires/packs/packdefinitions1.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions1.xml	1762659
-plugins/galacticempires/sets/carddata.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/carddata.txt	7080091
+plugins/galacticempires/packs/packdefinitions1.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions1.xml	17626421
+plugins/galacticempires/sets/carddata.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/carddata.txt	70801186
 images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	-307373
 images/backgrounds/GEplaymat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat.jpg	-45446
 images/backgrounds/GEplaymat2.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat2.jpg	-85389
-images/backgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/starfield.png	-85389
-images/zonebackgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/zonebackgrounds/starfield.png	-85389
+images/backgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/starfield.png	-49421
+images/zonebackgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/zonebackgrounds/starfield.png	-4411
 plugins/galacticempires/GERulebookV2.0.pdf	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/GERulebookV2.0.pdf	8838841
 plugins/galacticempires/decks/Basic_Deck_A.dek	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/decks/Basic_Deck_A.dek	431496
 plugins/galacticempires/decks/Basic_Deck_A_Argonian.dek	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/decks/Basic_Deck_A_Argonian.dek	417696
