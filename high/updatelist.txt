@@ -1,9 +1,9 @@
-galacticempires	12-02-22
-plugins/galacticempires/version.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/version.txt	39161
+galacticempires	12-03-22
+plugins/galacticempires/version.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/version.txt	45071
 plugins/galacticempires/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/setimages/spawned.jpg	-26670
 plugins/galacticempires/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/setimages/cardback.jpg	-6870
 plugins/galacticempires/uninstall.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/uninstall.txt	8696
-plugins/galacticempires/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/pluginpreferences.txt	470689
+plugins/galacticempires/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/pluginpreferences.txt	0
 plugins/galacticempires/bot.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/bot.jpg	-5066
 plugins/galacticempires/sounds/welcome.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/welcome.wav	47230
 plugins/galacticempires/sounds/turn.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/turn.wav	282263
@@ -20,6 +20,7 @@ plugins/galacticempires/packs/packdefinitions2.xml	https://raw.githubusercontent
 plugins/galacticempires/packs/packdefinitions3.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions3.xml	211003
 plugins/galacticempires/packs/packdefinitions4.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions4.xml	12297457
 plugins/galacticempires/packs/packdefinitions5.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions5.xml	1141615
+plugins/galacticempires/packs/packdefinitions6.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions6.xml	402722
 plugins/galacticempires/sets/carddata.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/carddata.txt	70801186
 images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	-307373
 images/backgrounds/GEplaymat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat.jpg	-45446
@@ -93,5 +94,7 @@ plugins/galacticempires/packs/Series_6_AT_Booster_Cover.jpg	https://raw.githubus
 plugins/galacticempires/packs/Series_7_Pir_Booster_Cover.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_7_Pir_Booster_Cover.jpg	4488
 plugins/galacticempires/packs/Series_9_Per_Booster_Cover.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_9_Per_Booster_Cover.jpg	1713
 plugins/galacticempires/packs/Series_U_UE_Booster_Cover.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_U_UE_Booster_Cover.jpg	10573
+plugins/galacticempires/packs/Series_0_Mega_Booster_Pack.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_0_Mega_Booster_Pack.jpg	29598
+plugins/galacticempires/packs/Series_0_Mega_Booster_Cover.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_0_Mega_Booster_Cover.jpg	1686
 CardGeneralURLs:
 https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/setimages/

@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>221203</lastupdateYYMMDD>
-<quality>HIGH</quality>
+<lastupdateYYMMDD>221204</lastupdateYYMMDD>
+<quality>LOW</quality>
 <versionurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/updatelist.txt</updateurl>
-<message>Tweaked Pack definitions; fixed NE and UE Pack Entity probability bug.</message>
+<message>Added Promo booster Pack, contains cards from every set (2VR, 3R, 4U, 5C) plus 1 random Promo card. 3% chance of Entity, 1% chance of Promo Entity.</message>
 
 </version>
