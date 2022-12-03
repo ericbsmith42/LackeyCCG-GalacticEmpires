@@ -1,8 +1,8 @@
 <packdefinitions version="1.0">
 
-<pack><packtitle>1) Basic Deck Series 1 $8.95</packtitle>
+<pack><packtitle>1) Basic Deck Series 1</packtitle>
 	<packimage>Series_1_BE_Basic_Deck_Front</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$8.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -57,9 +57,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>2) Basic Deck A Primary Edition $8.95</packtitle>
+<pack><packtitle>2) Basic Deck A Primary Edition</packtitle>
 	<packimage>Series_2_PE_Basic_Deck_A_Front</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$8.95</packformat>
 	<packkind>Starter</packkind>
 	
 		<chance>
@@ -83,9 +83,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>2) Basic Deck B Primary Edition $8.95</packtitle>
+<pack><packtitle>2) Basic Deck B Primary Edition</packtitle>
 	<packimage>Series_2_PE_Basic_Deck_B_Front</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$8.95</packformat>
 	<packkind>Starter</packkind>
 		<chance>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
@@ -108,9 +108,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>3) Basic Deck C New Empires $6.95</packtitle>
+<pack><packtitle>3) Basic Deck C New Empires</packtitle>
 	<packimage>Series_3_NE_Basic_Deck_C_Front</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$6.95</packformat>
 	<packkind>Starter</packkind>
 		<chance>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
@@ -122,9 +122,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) Argonian Universe Edition $12.95</packtitle>
+<pack><packtitle>U) Argonian Universe Edition</packtitle>
 	<packimage>Series_U_UE_Argonian_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -166,9 +166,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) Clydon Universe Edition $12.95</packtitle>
+<pack><packtitle>U) Clydon Universe Edition</packtitle>
 	<packimage>Series_U_UE_Clydon_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -207,9 +207,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) Corporate Universe Edition $12.95</packtitle>
+<pack><packtitle>U) Corporate Universe Edition</packtitle>
 	<packimage>Series_U_UE_Corporate_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -249,9 +249,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) Krebiz Universe Edition $12.95</packtitle>
+<pack><packtitle>U) Krebiz Universe Edition</packtitle>
 	<packimage>Series_U_UE_Krebiz_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -292,9 +292,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) Mechad Universe Edition $12.95</packtitle>
+<pack><packtitle>U) Mechad Universe Edition</packtitle>
 	<packimage>Series_U_UE_Mechad_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -335,9 +335,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) P.O.T. Universe Edition $12.95</packtitle>
+<pack><packtitle>U) P.O.T. Universe Edition</packtitle>
 	<packimage>Series_U_UE_P.O.T._Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -378,9 +378,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) Scorpead Universe Edition $12.95</packtitle>
+<pack><packtitle>U) Scorpead Universe Edition</packtitle>
 	<packimage>Series_U_UE_Scorpead_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -420,9 +420,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) Space Dragon Universe Edition $12.95</packtitle>
+<pack><packtitle>U) Space Dragon Universe Edition</packtitle>
 	<packimage>Series_U_UE_Dragon_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -469,9 +469,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) Tufor Universe Edition $12.95</packtitle>
+<pack><packtitle>U) Tufor Universe Edition</packtitle>
 	<packimage>Series_U_UE_Tufor_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -513,9 +513,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) Vektrean Universe Edition $12.95</packtitle>
+<pack><packtitle>U) Vektrean Universe Edition</packtitle>
 	<packimage>Series_U_UE_Vektrean_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -554,9 +554,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>8) Comedy Club on the Far Side of the Galaxy $12.95</packtitle>
+<pack><packtitle>8) Comedy Club on the Far Side of the Galaxy</packtitle>
 	<packimage>Series_8_CC_Comedy_Club_Starter_2</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -664,9 +664,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>10) Aqaaran Galactic Invaders $12.95</packtitle>
+<pack><packtitle>10) Aqaaran Galactic Invaders</packtitle>
 	<packimage>Series_10_GI_Aqaaran_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -714,9 +714,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>10) Gekonauak Galactic Invaders $12.95</packtitle>
+<pack><packtitle>10) Gekonauak Galactic Invaders</packtitle>
 	<packimage>Series_10_GI_Gekonauak_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -759,9 +759,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>10) J'xar Galactic Invaders $12.95</packtitle>
+<pack><packtitle>10) J'xar Galactic Invaders</packtitle>
 	<packimage>Series_10_GI_Jxar_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -801,9 +801,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>10) Orgon Galactic Invaders $12.95</packtitle>
+<pack><packtitle>10) Orgon Galactic Invaders</packtitle>
 	<packimage>Series_10_GI_Orgon_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -844,9 +844,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>10) Zedan Galactic Invaders $12.95</packtitle>
+<pack><packtitle>10) Zedan Galactic Invaders</packtitle>
 	<packimage>Series_10_GI_Zedan_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -888,9 +888,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Bolaar Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Bolaar Allied Forces</packtitle>
 	<packimage>Series_11_AF_Bolaar_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -932,9 +932,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Corporate Pirate Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Corporate Pirate Allied Forces</packtitle>
 	<packimage>Series_11_AF_Corporate_Pirate_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -976,9 +976,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Drone Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Drone Allied Forces</packtitle>
 	<packimage>Series_11_AF_Drone_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1036,9 +1036,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Erodi Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Erodi Allied Forces</packtitle>
 	<packimage>Series_11_AF_Erodi_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1097,9 +1097,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Leopan Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Leopan Allied Forces</packtitle>
 	<packimage>Series_11_AF_Leopan_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1140,9 +1140,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Noble Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Noble Allied Forces</packtitle>
 	<packimage>Series_11_AF_Noble_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1186,9 +1186,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Pakta'don Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Pakta'don Allied Forces</packtitle>
 	<packimage>Series_11_AF_Paktadon_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1232,9 +1232,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Paraloid Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Paraloid Allied Forces</packtitle>
 	<packimage>Series_11_AF_Paraloid_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1274,9 +1274,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Shon-ti Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Shon-ti Allied Forces</packtitle>
 	<packimage>Series_11_AF_Shon-ti_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1319,9 +1319,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Tarra'ki Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Tarra'ki Allied Forces</packtitle>
 	<packimage>Series_11_AF_Tarraki_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1365,9 +1365,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Treglean Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Treglean Allied Forces</packtitle>
 	<packimage>Series_11_AF_Treglean_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1425,9 +1425,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>11) Trochilidae Allied Forces $12.95</packtitle>
+<pack><packtitle>11) Trochilidae Allied Forces</packtitle>
 	<packimage>Series_11_AF_Trochilidae_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1486,9 +1486,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>12) Filarian Infester Promo $12.95</packtitle>
+<pack><packtitle>12) Filarian Infester Promo</packtitle>
 	<packimage>Series_12_Pro_Filarian_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1531,9 +1531,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>12) Indirigan Nomads Promo $12.95</packtitle>
+<pack><packtitle>12) Indirigan Nomads Promo</packtitle>
 	<packimage>Series_12_Pro_Indirigan_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1573,9 +1573,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>12) Psycanti Promo $12.95</packtitle>
+<pack><packtitle>12) Psycanti Promo</packtitle>
 	<packimage>Series_12_Pro_Psycanti_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>
@@ -1622,9 +1622,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>12) Visonic Promo $12.95</packtitle>
+<pack><packtitle>12) Visonic Promo</packtitle>
 	<packimage>Series_12_Pro_Visonic_Starter_1</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$12.95</packformat>
 	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
 		<chance>

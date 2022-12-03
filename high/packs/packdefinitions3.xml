@@ -1,8 +1,8 @@
 <packdefinitions version="1.0">
 
-<pack><packtitle>7) Piracy $0.99</packtitle>
+<pack><packtitle>7) Piracy</packtitle>
 	<packimage>Series_7_Pir_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$0.99</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>Pir</data></packcommoncrit>
 		<chance>
@@ -18,9 +18,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>9) Persona $0.99</packtitle>
+<pack><packtitle>9) Persona</packtitle>
 	<packimage>Series_9_Per_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$0.99</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>Per</data></packcommoncrit>
 		<chance>
@@ -36,9 +36,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>10) Galactic Invaders Booster $0.99</packtitle>
+<pack><packtitle>10) Galactic Invaders Booster</packtitle>
 	<packimage>Series_10_GI_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$0.99</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>GI</data></packcommoncrit>
 		<chance>

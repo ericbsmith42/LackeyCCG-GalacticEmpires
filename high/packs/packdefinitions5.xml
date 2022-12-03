@@ -1,8 +1,8 @@
 <packdefinitions version="1.0">
 
-<pack><packtitle>1) Beta Box $88.20</packtitle>
+<pack><packtitle>1) Beta Box</packtitle>
 	<packimage>Series_1_BE_Booster_Cover</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$88.20</packformat>
 	<packkind>Booster Box</packkind>
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>BE</data></packcommoncrit>
@@ -14,9 +14,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>2) Primary Edition Box $88.20</packtitle>
+<pack><packtitle>2) Primary Edition Box</packtitle>
 	<packimage>Series_2_PE_Booster_Cover</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$88.20</packformat>
 	<packkind>Booster Box</packkind>
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>PE</data></packcommoncrit>
@@ -38,9 +38,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>3) New Empires Box $88.20</packtitle>
+<pack><packtitle>3) New Empires Box</packtitle>
 	<packimage>Series_3_NE_Booster_Cover</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$88.20</packformat>
 	<packkind>Booster Box</packkind>
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>NE</data></packcommoncrit>
@@ -53,9 +53,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>4) Powers of the Mind Box $88.20</packtitle>
+<pack><packtitle>4) Powers of the Mind Box</packtitle>
 	<packimage>Series_4_PoM_Booster_Cover</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$88.20</packformat>
 	<packkind>Booster Box</packkind>
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>PoM</data></packcommoncrit>
@@ -75,9 +75,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>5) Time Gates Box $88.20</packtitle>
+<pack><packtitle>5) Time Gates Box</packtitle>
 	<packimage>Series_5_TG_Booster_Cover</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$88.20</packformat>
 	<packkind>Booster Box</packkind>
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>TG</data></packcommoncrit>
@@ -99,9 +99,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>U) Universe Edition Box $88.20</packtitle>
+<pack><packtitle>U) Universe Edition Box</packtitle>
 	<packimage>Series_U_UE_Booster_Cover</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$88.20</packformat>
 	<packkind>Booster Box</packkind>
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>UE</data></packcommoncrit>
@@ -167,9 +167,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>6) Advanced Technologies Box $88.20</packtitle>
+<pack><packtitle>6) Advanced Technologies Box</packtitle>
 	<packimage>Series_6_AT_Booster_Cover</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$88.20</packformat>
 	<packkind>Booster Box</packkind>
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>AT</data></packcommoncrit>
@@ -201,9 +201,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>7) Piracy Box $79.20</packtitle>
+<pack><packtitle>7) Piracy Box</packtitle>
 	<packimage>Series_7_Pir_Booster_Cover</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$79.20</packformat>
 	<packkind>Booster Box</packkind>
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>Pir</data></packcommoncrit>
@@ -214,9 +214,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>9) Persona Box $79.20</packtitle>
+<pack><packtitle>9) Persona Box</packtitle>
 	<packimage>Series_9_Per_Booster_Cover</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$79.20</packformat>
 	<packkind>Booster Box</packkind>
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>Per</data></packcommoncrit>
@@ -227,9 +227,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>10) Galactic Invaders Booster Box $79.20</packtitle>
+<pack><packtitle>10) Galactic Invaders Booster Box</packtitle>
 	<packimage>Series_10_GI_Booster_Cover</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$79.20</packformat>
 	<packkind>Booster Box</packkind>
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>GI</data></packcommoncrit>

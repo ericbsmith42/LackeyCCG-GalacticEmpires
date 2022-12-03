@@ -1,8 +1,8 @@
 <packdefinitions version="1.0">
 
-<pack><packtitle>U) Universe Edition $2.45</packtitle>
+<pack><packtitle>U) Universe Edition</packtitle>
 	<packimage>Series_U_UE_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$2.45</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>UE</data></packcommoncrit>
 		<chance><prob>1</prob>

@@ -1,8 +1,8 @@
 <packdefinitions version="1.0">
 
-<pack><packtitle>1) Alpha $2.45</packtitle>
+<pack><packtitle>1) Alpha</packtitle>
 	<packimage>Series_1_AB_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$2.45</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>AL</data></packcommoncrit>
 		<chance>
@@ -13,9 +13,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>1) Beta $2.45</packtitle>
+<pack><packtitle>1) Beta</packtitle>
 	<packimage>Series_1_AB_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$2.45</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>BE</data></packcommoncrit>
 		<chance>
@@ -26,9 +26,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>2) Primary Edition $2.45</packtitle>
+<pack><packtitle>2) Primary Edition</packtitle>
 	<packimage>Series_2_PE_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$2.45</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>PE</data></packcommoncrit>
 		<chance>
@@ -54,9 +54,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>3) New Empires $2.45</packtitle>
+<pack><packtitle>3) New Empires</packtitle>
 	<packimage>Series_3_NE_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$2.45</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>NE</data></packcommoncrit>
 		<chance>
@@ -79,9 +79,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>4) Powers of the Mind $2.45</packtitle>
+<pack><packtitle>4) Powers of the Mind</packtitle>
 	<packimage>Series_4_PoM_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$2.45</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>PoM</data></packcommoncrit>
 		<chance>
@@ -98,9 +98,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>5) Time Gates $2.45</packtitle>
+<pack><packtitle>5) Time Gates</packtitle>
 	<packimage>Series_5_TG_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$2.45</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>TG</data></packcommoncrit>
 		<chance>
@@ -138,9 +138,9 @@
 		</chance>
 </pack>
 
-<pack><packtitle>6) Advanced Technologies $2.45</packtitle>
+<pack><packtitle>6) Advanced Technologies</packtitle>
 	<packimage>Series_6_AT_Booster_Pack</packimage>
-	<packformat>Standard</packformat>
+	<packformat>$2.45</packformat>
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>AT</data></packcommoncrit>
 		<chance>
