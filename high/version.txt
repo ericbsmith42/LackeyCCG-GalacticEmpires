@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>221202</lastupdateYYMMDD>
+<lastupdateYYMMDD>221203</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/updatelist.txt</updateurl>
-<message>Tweaked Pack definitions; fixed NE Pack Entity probability bug.</message>
+<message>Tweaked Pack definitions; fixed NE and UE Pack Entity probability bugs.</message>
 
 </version>

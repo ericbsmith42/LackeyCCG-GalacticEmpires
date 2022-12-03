@@ -22,7 +22,7 @@
 		<chance><prob>1</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -106,7 +106,7 @@
 		<chance><prob>1</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -120,7 +120,7 @@
 		<chance><prob>3</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -134,7 +134,7 @@
 		<chance><prob>3</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -232,7 +232,7 @@
 		<chance><prob>3</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -246,7 +246,7 @@
 		<chance><prob>5</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -260,7 +260,7 @@
 		<chance><prob>6</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -358,7 +358,7 @@
 		<chance><prob>2</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -372,7 +372,7 @@
 		<chance><prob>3</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -386,7 +386,7 @@
 		<chance><prob>4</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -441,7 +441,7 @@
 		</chance>
 		<chance><prob>1</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
@@ -455,7 +455,7 @@
 		</chance>
 		<chance><prob>3</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
@@ -469,7 +469,7 @@
 		</chance>
 		<chance><prob>3</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
@@ -483,8 +483,8 @@
 		</chance>
 		<chance><prob>1</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -497,8 +497,8 @@
 		</chance>
 		<chance><prob>2</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -511,8 +511,8 @@
 		</chance>
 		<chance><prob>2</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
 			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
@@ -525,7 +525,7 @@
 		</chance>
 		<chance><prob>1</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
@@ -539,7 +539,7 @@
 		</chance>
 		<chance><prob>2</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
@@ -553,7 +553,7 @@
 		</chance>
 		<chance><prob>1</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
