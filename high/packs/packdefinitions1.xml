@@ -138,46 +138,4 @@
 		</chance>
 </pack>
 
-<pack><packtitle>6) Advanced Technologies</packtitle>
-	<packimage>Series_6_AT_Booster_Pack</packimage>
-	<packformat>$2.45</packformat>
-	<packkind>Booster Pack</packkind>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>AT</data></packcommoncrit>
-		<chance>
-			<prob>5</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
- 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>1</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
- 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>80</prob>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>13</prob>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>1</prob>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-</pack>
-
 </packdefinitions>
