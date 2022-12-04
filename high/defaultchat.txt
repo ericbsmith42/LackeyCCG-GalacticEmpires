@@ -19,3 +19,5 @@ Good Game                                     (goodgame.wav)
 !Add Persona Pack to Removed!/ap <k>9) Persona</k><zone>Removed</zone>
 !Add 1 of Each Pack!/ap <k>2) Primary Edition</k><erase>yes</erase><zone>Hand</zone>;/ap <k>3) New Empires</k><zone>Hand</zone>;/ap <k>4) Powers of the Mind</k><zone>Hand</zone>;/ap <k>5) Time Gates</k><zone>Hand</zone>;/ap <k>U) Universe Edition</k><zone>Hand</zone>;/ap <k>6) Advanced Technologies</k><zone>Hand</zone>;/ap <k>7) Piracy</k><zone>Hand</zone>;/ap <k>9) Persona</k><zone>Hand</zone>;/ap <k>10) Galactic Invaders Booster</k><zone>Hand</zone>;/copyzonetocardpool
 /mkupdate plugins/galacticempires/updatelist.txt
+/checksum plugins/galacticempires/defaultchat.txt
+/checksum plugins/galacticempires/version.txt
