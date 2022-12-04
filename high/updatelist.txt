@@ -60,7 +60,7 @@ plugins/galacticempires/packs/Series_12_Pro_Council_Of_Six_1.jpg	https://raw.git
 plugins/galacticempires/packs/Series_12_Pro_Garshain_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Garshain_Starter_1.jpg	-5096
 plugins/galacticempires/packs/Series_12_Pro_Gray_Death_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Gray_Death_Starter_1.jpg	-3792
 plugins/galacticempires/packs/Series_12_Pro_Infected_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Infected_Starter_1.jpg	7583
-plugins/galacticempires/packs/Series_12_Pro_Nagiridni_Pirate_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Nagiridni_Pirate_Starter_1	1908
+plugins/galacticempires/packs/Series_12_Pro_Nagiridni_Pirate_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Nagiridni_Pirate_Starter_1.jpg	1908
 plugins/galacticempires/packs/Series_2_PE_Basic_Deck_A_Front.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_2_PE_Basic_Deck_A_Front.jpg	-8444
 plugins/galacticempires/packs/Series_2_PE_Basic_Deck_B_Front.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_2_PE_Basic_Deck_B_Front.jpg	-24916
 plugins/galacticempires/packs/Series_2_PE_Booster_Pack.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_2_PE_Booster_Pack.jpg	9486
