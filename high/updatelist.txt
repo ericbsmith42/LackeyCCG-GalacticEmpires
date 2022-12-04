@@ -95,21 +95,21 @@ plugins/galacticempires/sounds/phase4.wav	https://raw.githubusercontent.com/eric
 plugins/galacticempires/sounds/phase5.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/phase5.wav	106314
 plugins/galacticempires/sounds/phase6.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/phase6.wav	69410
 plugins/galacticempires/sounds/phase7.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/phase7.wav	106151
-plugins/galacticempires/sounds/atendofturn.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/atendofturn.wav	58737
-plugins/galacticempires/sounds/attack.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/attack.wav	31852
-plugins/galacticempires/sounds/done.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/done.wav	35290
-plugins/galacticempires/sounds/goodgame.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/goodgame.wav	44825
-plugins/galacticempires/sounds/holdon.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/holdon.wav	45795
-plugins/galacticempires/sounds/inresponse.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/inresponse.wav	43774
-plugins/galacticempires/sounds/mulligan.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/mulligan.wav	45387
-plugins/galacticempires/sounds/pass.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/pass.wav	37251
-plugins/galacticempires/sounds/passorplay.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/passorplay.wav	72199
-plugins/galacticempires/sounds/proceed.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/proceed.wav	49293
-plugins/galacticempires/sounds/shucks.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/shucks.wav	8585
-plugins/galacticempires/sounds/thinking.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/thinking.wav	28497
+plugins/galacticempires/sounds/atendofturn.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/atendofturn.wav	58737
+plugins/galacticempires/sounds/attack.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/attack.wav	31852
+plugins/galacticempires/sounds/done.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/done.wav	35290
+plugins/galacticempires/sounds/goodgame.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/goodgame.wav	44825
+plugins/galacticempires/sounds/holdon.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/holdon.wav	45795
+plugins/galacticempires/sounds/inresponse.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/inresponse.wav	43774
+plugins/galacticempires/sounds/mulligan.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/mulligan.wav	45387
+plugins/galacticempires/sounds/pass.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/pass.wav	37251
+plugins/galacticempires/sounds/passorplay.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/passorplay.wav	72199
+plugins/galacticempires/sounds/proceed.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/proceed.wav	49293
+plugins/galacticempires/sounds/shucks.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/shucks.wav	8585
+plugins/galacticempires/sounds/thinking.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/thinking.wav	28497
 plugins/galacticempires/sounds/turn.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/turn.wav	137982
 plugins/galacticempires/sounds/welcome.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/welcome.wav	166016
-plugins/galacticempires/sounds/yay.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/yay.wav	46805
-plugins/galacticempires/sounds/yourturn.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/plugins/galacticempires/sounds/yourturn.wav	49702
+plugins/galacticempires/sounds/yay.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/yay.wav	46805
+plugins/galacticempires/sounds/yourturn.wav	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sounds/yourturn.wav	49702
 CardGeneralURLs:
 https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/setimages/
