@@ -1,5 +1,5 @@
 galacticempires	12-04-22
-plugins/galacticempires/version.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt	44870
+plugins/galacticempires/version.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt	4487
 plugins/galacticempires/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/spawned.jpg	118
 plugins/galacticempires/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/cardback.jpg	2290
 plugins/galacticempires/defaultchat.txt https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/defaultchat.txt	97958
