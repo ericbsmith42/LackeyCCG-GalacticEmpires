@@ -1,0 +1,108 @@
+<packdefinitions version="1.0">
+
+<pack><packtitle>12) Mega Booster Promo</packtitle>
+	<packimage>Series_0_Mega_Booster_Pack</packimage>
+	<packformat>$3.95</packformat>
+	<packkind>Promo</packkind>
+	<packcommoncrit><field>Card tags</field><eval>DOESNTCONTAIN</eval><data>Reprinted</data></packcommoncrit>
+		<chance>
+			<prob>4</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>V</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>VC</data></crit>
+			</kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Pro</data></crit>
+			</kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>Pro</data></crit>
+				<crit><field>ST</field><eval>DOESNTCONTAIN</eval><data>10</data></crit>
+			</kind>
+		</chance>
+		<chance>
+			<prob>1</prob>
+			<kind><qty>2</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>V</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>VC</data></crit>
+			</kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Pro</data></crit>
+			</kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>Pro</data></crit>
+				<crit><field>ST</field><eval>IS</eval><data>10</data></crit>
+			</kind>
+		</chance>
+		<chance>
+			<prob>96</prob>
+			<kind><qty>2</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>V</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>VC</data></crit>
+			</kind>
+			<kind><qty>3</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Pro</data></crit>
+			</kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>Pro</data></crit>
+				<crit><field>ST</field><eval>DOESNTCONTAIN</eval><data>10</data></crit>
+			</kind>
+		</chance>
+</pack>
+
+<pack><packtitle>12) Mega Booster Box Promo</packtitle>
+	<packimage>Series_0_Mega_Booster_Cover</packimage>
+	<packformat>$142.20</packformat>
+	<packkind>Promo</packkind>
+	<packcommoncrit><field>Card tags</field><eval>DOESNTCONTAIN</eval><data>Reprinted</data></packcommoncrit>
+		<chance>
+			<prob>75</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
+			<kind><qty>71</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>V</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>VC</data></crit>
+			</kind>
+			<kind><qty>108</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Pro</data></crit>
+			</kind>
+			<kind><qty>216</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+			<kind><qty>108</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>36</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>Pro</data></crit>
+				<crit><field>ST</field><eval>DOESNTCONTAIN</eval><data>10</data></crit>
+			</kind>
+		</chance>
+		<chance>
+			<prob>25</prob>
+			<kind><qty>72</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>V</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>VC</data></crit>
+			</kind>
+			<kind><qty>108</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Pro</data></crit>
+			</kind>
+			<kind><qty>216</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>U</data></crit></kind>
+			<kind><qty>108</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>35</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>Pro</data></crit>
+				<crit><field>ST</field><eval>DOESNTCONTAIN</eval><data>10</data></crit>
+			</kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>Pro</data></crit>
+				<crit><field>ST</field><eval>IS</eval><data>10</data></crit>
+			</kind>
+		</chance>
+</pack>
+
+</packdefinitions>

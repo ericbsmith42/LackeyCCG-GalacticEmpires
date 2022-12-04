@@ -1,242 +1,409 @@
 <packdefinitions version="1.0">
 
-<pack><packtitle>1) Beta Box</packtitle>
-	<packimage>Series_1_BE_Booster_Cover</packimage>
-	<packformat>$88.20</packformat>
-	<packkind>Booster Box</packkind>
-	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>BE</data></packcommoncrit>
-		<chance>
-			<kind><qty>36</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>108</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>144</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
-		</chance>
-</pack>
 
-<pack><packtitle>2) Primary Edition Box</packtitle>
-	<packimage>Series_2_PE_Booster_Cover</packimage>
-	<packformat>$88.20</packformat>
-	<packkind>Booster Box</packkind>
+<pack><packtitle>12) Council of Six Tribe Promo</packtitle>
+	<packimage>Series_12_Pro_Council_Of_Six_1</packimage>
+	<packformat>$14.95</packformat>
+	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>PE</data></packcommoncrit>
 		<chance>
-			<prob>31</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>V1</data></crit></kind>
-			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>216</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>108</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>69</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>V2</data></crit></kind>
-			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>216</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>108</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
-		</chance>
-</pack>
-
-<pack><packtitle>3) New Empires Box</packtitle>
-	<packimage>Series_3_NE_Booster_Cover</packimage>
-	<packformat>$88.20</packformat>
-	<packkind>Booster Box</packkind>
-	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>NE</data></packcommoncrit>
-		<chance>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>144</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>180</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
-		</chance>
-</pack>
-
-<pack><packtitle>4) Powers of the Mind Box</packtitle>
-	<packimage>Series_4_PoM_Booster_Cover</packimage>
-	<packformat>$88.20</packformat>
-	<packkind>Booster Box</packkind>
-	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>PoM</data></packcommoncrit>
-		<chance>
-			<prob>44</prob>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>34</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>144</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>252</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>56</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>144</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>252</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-</pack>
-
-<pack><packtitle>5) Time Gates Box</packtitle>
-	<packimage>Series_5_TG_Booster_Cover</packimage>
-	<packformat>$88.20</packformat>
-	<packkind>Booster Box</packkind>
-	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>TG</data></packcommoncrit>
-		<chance>
-			<prob>44</prob>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>34</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>65</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
-			<kind><qty>79</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-			<kind><qty>252</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>56</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>65</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
-			<kind><qty>79</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R</data></crit></kind>
-			<kind><qty>252</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-		</chance>
-</pack>
-
-<pack><packtitle>U) Universe Edition Box</packtitle>
-	<packimage>Series_U_UE_Booster_Cover</packimage>
-	<packformat>$88.20</packformat>
-	<packkind>Booster Box</packkind>
-	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>UE</data></packcommoncrit>
-		<chance>
-			<prob>44</prob>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>34</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>155</qty>
-				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-			</kind>
-			<kind><qty>133</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>8</qty>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 Fuser Mechanism (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E8 Fuser (AT)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C9 Indirigan Chieftain - Council of Six Chieftian Nohs (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C9 Indirigan Chieftain - Council of Six Prophet - Neah (Pro)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S2 Patrol Ship - Council of Six Tribe Patrol Ship (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S3 Escort - Council of Six Tribe Escort (Pro)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S4 Scout Ship - Council of Six Tribe Scout (Pro)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S5 Command Destroyer - Council of Six Tribe Destroyer (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S6 Medium Cruiser - Council of Six Tribe Cruiser (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Super Heavy Cruiser - Council of Six Tribe Cruiser (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Heavy War Cruiser - Council of Six Tribe Cruiser (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Diplomatic Cruiser - Council of Six Tribe Cruiser (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Command Cruiser - Council of Six Tribe Cruiser (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T8 Planet - Council of Six Homeworld (Pro)</data></crit></kind>
+			<kind><qty>6</qty>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>13</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
-			<kind><qty>9</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>3</data></crit></kind>
-			<kind><qty>12</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>10</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>12</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>4</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
-			<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
-		</chance>
-		<chance>
-			<prob>56</prob>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit></kind>
-			<kind><qty>155</qty>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>13</qty>
 				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
-			<kind><qty>133</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit></kind>
-			<kind><qty>8</qty>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+		</chance>
+</pack>
+
+<pack><packtitle>12) Filarian Infester Promo</packtitle>
+	<packimage>Series_12_Pro_Filarian_Starter_1</packimage>
+	<packformat>$12.95</packformat>
+	<packkind>Starter</packkind>
+	<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>A2 Filarian Infester (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>A4 Filarian Infester (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>A5 Filarian Mind Lord (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>A6 Filarian Infester (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A7 Filarian Infester (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A8 Filarian Infester (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>A9 Filarian Overlord (Pir)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>C6 Rogue Couple (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E5 Filarian Fighter - Filarian Needle Fighter (Per)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S2 Troop Ship (AF)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S5 Fictitious Ship (AF)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S5 Troop Freighter (Per)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T6 Filarian Moon - Infested Moon (Per)</data></crit></kind>
+			<kind><qty>6</qty>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit></kind>
-			<kind><qty>13</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit></kind>
-			<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
-			<kind><qty>9</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>3</data></crit></kind>
-			<kind><qty>12</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>10</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
-			<kind><qty>12</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>4</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
-			<kind><qty>11</qty><crit><field>Rarity</field><eval>IS</eval><data>R4</data></crit></kind>
-			<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>V4</data></crit></kind>
-		</chance>
-</pack>
-
-<pack><packtitle>6) Advanced Technologies Box</packtitle>
-	<packimage>Series_6_AT_Booster_Cover</packimage>
-	<packformat>$88.20</packformat>
-	<packkind>Booster Box</packkind>
-	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>AT</data></packcommoncrit>
-		<chance>
-			<prob>16</prob>
-			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
- 			<kind><qty>69</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>216</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>98</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>13</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
-			<kind><qty>42</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 		</chance>
+</pack>
+
+<pack><packtitle>12) Garshain Tribe Promo</packtitle>
+	<packimage>Series_12_Pro_Garshain_Starter_1</packimage>
+	<packformat>$14.95</packformat>
+	<packkind>Starter</packkind>
+	<packdoubles>yes</packdoubles>
 		<chance>
-			<prob>84</prob>
-			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
- 			<kind><qty>70</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>216</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>98</qty>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 Fuser Mechanism (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E8 Fuser (AT)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C9 Indirigan Chieftain - Speer (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T8 System - Custom System Garshain (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Heavy Carrier - Garshain Tribe Hvy. Carrier (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Command Cruiser - Garshain Tribe Cmd. Cruiser (Pro)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S6 Medium Carrier - Garshain Tribe Med. Carrier (Pro)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S5 Command Destroyer - Garshain Tribe Destroyer (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S4 Frigate - Garshain Tribe Frigate (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S3 Escort - Garshain Tribe Escort (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S2 Patrol Ship - Garshain Tribe Patrol Ship (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>6</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>13</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
-				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
 			</kind>
-			<kind><qty>42</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 		</chance>
 </pack>
 
-<pack><packtitle>7) Piracy Box</packtitle>
-	<packimage>Series_7_Pir_Booster_Cover</packimage>
-	<packformat>$79.20</packformat>
-	<packkind>Booster Box</packkind>
+<pack><packtitle>12) Gray Death Tribe Promo</packtitle>
+	<packimage>Series_12_Pro_Gray_Death_Starter_1</packimage>
+	<packformat>$14.95</packformat>
+	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>Pir</data></packcommoncrit>
 		<chance>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>79</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>400</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 Fuser Mechanism (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E8 Fuser (AT)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C9 Indirigan Chieftain - Gray Death Commandant (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S2 Patrol Ship - Gray Death Tribe Patrol Ship (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S3 Escort - Gray Death Tribe Escort (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S4 Space Boarding Ship - Gray Death Tribe Boarding Ship (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S5 Command Destroyer - Gray Death Tribe Destroyer (Pro)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S6 Carrier - Gray Death Tribe Carrier (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Command Cruiser - Gray Death Tribe Cruiser (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Battle Barge - Gray Death Tribe War Cruiser (Pro)</data></crit></kind>
+			<kind><qty>6</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>13</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 		</chance>
 </pack>
 
-<pack><packtitle>9) Persona Box</packtitle>
-	<packimage>Series_9_Per_Booster_Cover</packimage>
-	<packformat>$79.20</packformat>
-	<packkind>Booster Box</packkind>
+<pack><packtitle>12) Indirigan Nomads Promo</packtitle>
+	<packimage>Series_12_Pro_Indirigan_Starter_1</packimage>
+	<packformat>$12.95</packformat>
+	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>Per</data></packcommoncrit>
 		<chance>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>79</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>320</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C1 Indirigan Female (UE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>C9 Indirigan Chieftain (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 Fuser Mechanism (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E8 Fuser (PE)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S3 Indirigan Escort - Indirigan Nomads Escort (PE)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S4 Indirigan Frigate - Indirigan Nomads Frigate (PE)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S5 Indirigan Destroyer - Indirigan Nomads Destroyer (PE)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S6 Indirigan Light Cruiser (PE)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S6 Indirigan Medium Cruiser - Indirigan Nomads Medium Cruiser (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Indirigan Heavy Cruiser (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S8 Indirigan Battlecruiser - Indirigan Nomads Battlecruiser (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T6 System - Indirigan Former Homeworld (Pir)</data></crit></kind>
+			<kind><qty>6</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>13</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 		</chance>
 </pack>
 
-<pack><packtitle>10) Galactic Invaders Booster Box</packtitle>
-	<packimage>Series_10_GI_Booster_Cover</packimage>
-	<packformat>$79.20</packformat>
-	<packkind>Booster Box</packkind>
+<pack><packtitle>12) Infected Tribe Promo</packtitle>
+	<packimage>Series_12_Pro_Infected_Starter_1</packimage>
+	<packformat>$14.95</packformat>
+	<packkind>Starter</packkind>
 	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>GI</data></packcommoncrit>
 		<chance>
-			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>79</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>320</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 Fuser Mechanism (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E8 Fuser (AT)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T8 Planet Turrel V - Infected World (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Heavy Triage Cruiser - Infected Tribe Command ERV (Pro)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S6 Light Evac Carrier - Infected Tribe Evac Carrier (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S5 Light Triage Cruiser - Infected Tribe Command ERV (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S4 Emergency Relief Tug - Infected Tribe Tug (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S3 Emergency Response Escort - Infected Tribe Escort (Pro)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S2 Paramedic Patrol ERV - Infected Tribe Patrol Ship (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S8 Heavy Evac Carrier - Infected Tribe Evac Carrier (Pro)</data></crit></kind>
+			<kind><qty>6</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>13</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+		</chance>
+</pack>
+
+<pack><packtitle>12) Nagiridni Pirate Tribe Promo</packtitle>
+	<packimage>Series_12_Pro_Nagiridni_Pirate_Starter_1</packimage>
+	<packformat>$14.95</packformat>
+	<packkind>Starter</packkind>
+	<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E1 Fuser Mechanism (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E8 Fuser (AT)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T6 Planet - Nagir XII (Per)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T1 Nagiridni Pirate Outpost (Pro)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>C9 Indirigan Chieftain (PE)</data></crit></kind>
+			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S2 Nagiridni Pirate Scout (NE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S3 Nagiridni Pirate Destroyer (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S4 Nagiridni Pirate Salvage Tug (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S5 Nagiridni Pirate Destroyer (NE)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>S5 Nagiridni Pirate Destroyer (Pir)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S6 Nagiridni Pirate Boarding Cruiser (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S6 Nagiridni Pirate Cruiser (NE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S6 Nagiridni Pirate Cruiser (Pir)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Nagiridni Pirate Cruiser - Aggressor Cruiser (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>S7 Nagiridni Pirate Mine Cruiser (Pro)</data></crit></kind>
+			<kind><qty>6</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>13</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+		</chance>
+</pack>
+
+<pack><packtitle>12) Psycanti Promo</packtitle>
+	<packimage>Series_12_Pro_Psycanti_Starter_1</packimage>
+	<packformat>$12.95</packformat>
+	<packkind>Starter</packkind>
+	<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B5 Psycanti Projection Station (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E5 Psycanti Fighter - Psycanti Intellect Fighter (Per)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>F1 Minor Terrain Field (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>F2 Lesser Healing Field (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>F3 Field of Minor Wilding (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>F4 Psycanti Field (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>F5 Stellar Field (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>P1 Psycanti Muse (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>P2 Psycanti Apprentice (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>P3 Psycanti Occultist (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>P4 Psycanti Defender (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>P4 Psycanti Kineticist (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>P5 Psycanti Apostle (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>P6 Psycanti Commandant (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>P7 Psycanti Duelist (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>P8 Psycanti Paladin (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>T5 Planet - Psycanti Planetesimal (PoM)</data></crit></kind>
+			<kind><qty>6</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>13</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+		</chance>
+</pack>
+
+<pack><packtitle>12) Visonic Promo</packtitle>
+	<packimage>Series_12_Pro_Visonic_Starter_1</packimage>
+	<packformat>$12.95</packformat>
+	<packkind>Starter</packkind>
+	<packdoubles>yes</packdoubles>
+		<chance>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>B6 Visonic Ruins (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E5 Visonic Fighter - Visonic Probe Fighter (Per)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>F1 Minor Terrain Field (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>F2 Lesser Healing Field (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>F3 Field of Power (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>F4 Visonic Field (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>F5 Field of Viscaras (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>P1 Visonic Pledge (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>P2 Visonic Apprentice (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>P3 Visonic Kineticist (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>P4 Visonic Occultist (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>P4 Visonic Practitioner (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>P5 Visonic Apostle (PoM)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>P6 Visonic Paladin (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>P7 Visonic Duelist (PoM)</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>T4 Planet - Visonic Homeworld (PoM)</data></crit></kind>
+			<kind><qty>6</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>3</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>4</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>E</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>VC</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>16</qty><crit><field>Rarity</field><eval>IS</eval><data>R0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>13</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>0</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>V</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>UE</data></crit>
+			</kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
+			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>C0</data></crit><crit><field>Set</field><eval>IS</eval><data>UE</data></crit></kind>
 		</chance>
 </pack>
 

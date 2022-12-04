@@ -10,9 +10,10 @@ plugins/galacticempires/plugininfo.txt	https://raw.githubusercontent.com/ericbsm
 plugins/galacticempires/packs/packdefinitions1.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions1.xml	776338
 plugins/galacticempires/packs/packdefinitions2.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions2.xml	3196588
 plugins/galacticempires/packs/packdefinitions3.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions3.xml	211003
-plugins/galacticempires/packs/packdefinitions4.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions4.xml	12297457
-plugins/galacticempires/packs/packdefinitions5.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions5.xml	1141615
-plugins/galacticempires/packs/packdefinitions6.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions6.xml	402722
+plugins/galacticempires/packs/packdefinitions4.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions4.xml	10912738
+plugins/galacticempires/packs/packdefinitions5.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions5.xml	3105085
+plugins/galacticempires/packs/packdefinitions6.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions6.xml	1141615
+plugins/galacticempires/packs/packdefinitions7.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions7.xml	402722
 plugins/galacticempires/sets/carddata.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/carddata.txt	70801186
 images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	-307373
 images/backgrounds/GEplaymat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat.jpg	-45446
@@ -55,6 +56,11 @@ plugins/galacticempires/packs/Series_12_Pro_Filarian_Starter_1.jpg	https://raw.g
 plugins/galacticempires/packs/Series_12_Pro_Indirigan_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Indirigan_Starter_1.jpg	-14147
 plugins/galacticempires/packs/Series_12_Pro_Psycanti_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Psycanti_Starter_1.jpg	10985
 plugins/galacticempires/packs/Series_12_Pro_Visonic_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Visonic_Starter_1.jpg	15509
+plugins/galacticempires/packs/Series_12_Pro_Council_Of_Six_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Council_Of_Six_1.jpg	-32006
+plugins/galacticempires/packs/Series_12_Pro_Garshain_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Garshain_Starter_1.jpg	-5096
+plugins/galacticempires/packs/Series_12_Pro_Gray_Death_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Gray_Death_Starter_1.jpg	-3792
+plugins/galacticempires/packs/Series_12_Pro_Infected_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Infected_Starter_1.jpg	7583
+plugins/galacticempires/packs/Series_12_Pro_Nagiridni_Pirate_Starter_1.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_12_Pro_Nagiridni_Pirate_Starter_1	1908
 plugins/galacticempires/packs/Series_2_PE_Basic_Deck_A_Front.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_2_PE_Basic_Deck_A_Front.jpg	-8444
 plugins/galacticempires/packs/Series_2_PE_Basic_Deck_B_Front.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_2_PE_Basic_Deck_B_Front.jpg	-24916
 plugins/galacticempires/packs/Series_2_PE_Booster_Pack.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/Series_2_PE_Booster_Pack.jpg	9486
