@@ -37,10 +37,6 @@
 	<sourceowner>performer</sourceowner><sourcegamezone>Deck</sourcegamezone><sourceposition>top</sourceposition>
 	<destinationowner>performer</destinationowner><destinationgamezone>Discard</destinationgamezone><destinationposition>top</destinationposition>
 </generalfunction>
-<generalfunction><label>Roll d6</label><kind>ROLLD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Roll d10</label><kind>ROLLD10</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Roll d12</label><kind>ROLLD12</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind></generalfunction>
 
 <generalfunction><label>Previous Phase</label><kind>PREVIOUSPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
 <generalfunction><label>Next Phase</label><kind>NEXTPHASE</kind><includeasbutton>yes</includeasbutton></generalfunction>
