@@ -3195,7 +3195,7 @@ Spcl Tarra'ki Aux. Shields & Positron Emitter Rules (AF)	AF	Tarraki_Aux._Shields
 Spcl Treglean Weapon Group Rules (AF)	AF	Treglean_Weapon_Group_Rules_AF	V		Spcl	Treglean Weapon Group Rules		Spcl		25		Treglean 	[AF] Veryrare Cards LatestPrint Unique NotABG MinorEmpire AlliedEmpire artGeorgeT.HenneJr. Treglean 
 Spcl Trochilidae Maneuvering Thruster Rules (AF)	AF	Trochilidae_Maneuvering_Thruster_Rules_AF	V		Spcl	Trochilidae Maneuvering Thruster Rules		Spcl		25		Trochilidae 	[AF] Veryrare Cards LatestPrint Unique NotABG AlliedEmpire artGeorgeT.HenneJr. Trochilidae 
 Spcl 100 Delic Note (Pro)	Pro7	$10_-_100_Delic_Note_Pro7	Pro7		Spcl	100 Delic Note		Spcl		25		Indirigans IndiriganCards 	[Pro7] Cards LatestPrint Unique NotABG MinorEmpire Auction distCompanionGames artRandyTarkasHoar artBobWesson Indirigans IndiriganCards 
-Spcl Play Area Diagram (UE)	UE	Play_Area_Diagram	N/A		Spcl	Play Area Diagram		Spcl		25		 	[UE] NA Cards LatestPrint Unique NotABG artN/A  
 Spcl Point Symbols (BE)	BE	Point_Symbols_BE	C		Spcl	Point Symbols		Spcl		25		 	[BE] Common Cards LatestPrint Unique artC.HenrySchulte  
 Spcl Point Symbols (PE)	PE	Point_Symbols_PE	VCAB		Spcl	Point Symbols		Spcl		25		 	[PE] Verycommon Common_AB Cards LatestPrint Unique NotABG artC.HenrySchulte  
 Spcl Carl H. Schulte Business Card (Pro)	Pro0	Carl-H-Schulte	Pro0		Spcl	Carl H. Schulte Business Card		Spcl		25		 	[Pro0] Cards LatestPrint Unique NotABG distCompanionGames artN/A  
+Spcl Marilyn Bordinaro Business Card (Pro)	Pro0	Marilyn-Bordinaro	Pro0		Spcl	Marilyn Bordinaro Business Card		Spcl		25		 	[Pro0] Cards LatestPrint Unique NotABG distCompanionGames artN/A  
