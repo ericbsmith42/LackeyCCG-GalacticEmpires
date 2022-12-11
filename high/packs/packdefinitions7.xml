@@ -230,7 +230,7 @@
 	<packformat>$214.20</packformat>
 	<packkind>Promo Box</packkind>
 	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>Pro</data></packcommoncrit>
+	<packcommoncrit><field>Set</field><eval>CONTAINS</eval><data>Pro</data></packcommoncrit>
 		<chance>
 			<prob>11</prob>
 			<kind><qty>36</qty><crit><field>ST</field><eval>IS</eval><data>1</data></crit></kind>

@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>221206</lastupdateYYMMDD>
+<lastupdateYYMMDD>221210</lastupdateYYMMDD>
 <quality>LOW</quality>
 <versionurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/updatelist.txt</updateurl>
