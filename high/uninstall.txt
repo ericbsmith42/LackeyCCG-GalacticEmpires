@@ -1,6 +1,7 @@
 <uninstall>
 
-<dateYYMMDD>221129</dateYYMMDD>
+<dateYYMMDD>221210</dateYYMMDD>
 <removepath>CardImageURLs.txt</removepath>
+<removepath>sets/setimages/Pro/</removepath>
 
 </uninstall>

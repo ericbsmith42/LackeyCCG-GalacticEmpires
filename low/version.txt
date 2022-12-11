@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>221210</lastupdateYYMMDD>
+<lastupdateYYMMDD>221211</lastupdateYYMMDD>
 <quality>LOW</quality>
 <versionurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/updatelist.txt</updateurl>
-<message>Added Mega booster Pack, contains cards from every set (2VR, 3R, 6U, 3C) plus 1 random Promo card. 3% chance of Entity, 1% chance of Promo Entity. Added Promo Booster Pack, Contains all Promo cards, 1xST1, 1xST2, 1xST3, 1xST4, 4xST5, 2xST6, 2xST7, 1xST8, 1xST9, 4% chance ST10.</message>
+<message>Changed Promo cards to be in individual sets (Pro0 to Pro8). You will need to redownload these card images.</message>
 
 </version>

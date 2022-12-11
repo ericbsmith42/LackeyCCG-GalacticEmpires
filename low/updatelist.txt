@@ -1,9 +1,9 @@
-galacticempires	12-04-22
-plugins/galacticempires/version.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt	54660
+galacticempires	12-10-22
+plugins/galacticempires/version.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt	42106
 plugins/galacticempires/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/spawned.jpg	118
 plugins/galacticempires/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/sets/setimages/cardback.jpg	2290
 plugins/galacticempires/defaultchat.txt https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/defaultchat.txt	107435
-plugins/galacticempires/uninstall.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/uninstall.txt	8696
+plugins/galacticempires/uninstall.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/uninstall.txt	12999
 plugins/galacticempires/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/pluginpreferences.txt	0
 plugins/galacticempires/bot.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/bot.jpg	-5066
 plugins/galacticempires/plugininfo.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/plugininfo.txt	555013
