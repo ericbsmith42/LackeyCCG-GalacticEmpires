@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>221212</lastupdateYYMMDD>
+<quality>MED</quality>
+<versionurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/med/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/med/updatelist.txt</updateurl>
+<message>Changed Promo cards to be in individual sets (Pro0 to Pro8). You will need to redownload these card images.</message>
+
+</version>
