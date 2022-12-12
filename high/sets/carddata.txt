@@ -1,4 +1,4 @@
-Name	Set	ImageFile	Rarity	Errata 	Type/ST	Title	Reaction	Type	Alt Type	ST	Time ST	Empire	Card tags
+Name	Set	ImageFile	Rarity	Errata 	Type/ST	Title	Reaction	Type	Alt Type	ST	Time ST	Empire	Card tags	Script
 A1 [Ace of Clubs] (CC)	CC	A1_-_-Ace_of_Clubs-_CC	U		A1	[Ace of Clubs]		A		1		 	[CC] Uncommon Cards LatestPrint Unique NotABG Nonempire typeSpcl artEdmondHoyle  
 A1 Ace of Clubs (CC)	CC	A1_-_Ace_of_Clubs_CC	U		A1	Ace of Clubs		A		1		ComedyClub 	[CC] Uncommon Cards LatestPrint Unique NotABG MajorEmpire AbilityCrew artPatMorrissey ComedyClub 
 A1 Aestheticism (Pro)	Pro4	A1_-_Aestheticism_Pro4	Pro4		A1	Aestheticism		A		1		Orgon SpaceDragon Aesthetic 	[Pro4] Cards LatestPrint Unique NotABG MinorEmpire distMintCardCo AbilityCrew AbilityDragon AbilityTerrain artsomeguy Orgon SpaceDragon Aesthetic 
@@ -394,7 +394,7 @@ C1 Pizza Delivery Alien - P.D.A. [4/4] (CC)	CC	C1_-_Pizza_Delivery_Alien_-_P.D.A
 C1 Portrait Artiste (Pro)	Pro4	C1_-_Portrait_Artiste_Pro4	Pro4		C1	Portrait Artiste		C		1		 	[Pro4] Cards LatestPrint Unique NotABG Nonempire distMintCardCo artRobertA.Kraus  
 C1 Sales Representative (CC)	CC	C1_-_Sales_Representative_CC	U		R/C1	Sales Representative	R/	C		1		 	[CC] Uncommon Cards LatestPrint Unique NotABG Nonempire OpenAPack artPatMorrissey  
 C1 Science Officer (BE)	BE	C1_-_Science_Officer_BE	C		R/C1	Science Officer	R/	C		1		 	[BE] Common Cards LatestPrint Unique Nonempire PropDoctorScience 01_ResearchPoint artLeslieRigley  
-C1 Speedy Delivery Alien (Per)	Per	C1_-_Speedy_Delivery_Alien_Per	U	Errata 	C1	Speedy Delivery Alien		C		1		 	[Per] Uncommon Cards LatestPrint Unique NotABG Nonempire OpenAPack artRandyTarkasHoar Errata  
+C1 Speedy Delivery Alien (Per)	Per	C1_-_Speedy_Delivery_Alien_Per	U	Errata 	C1	Speedy Delivery Alien		C		1		 	[Per] Uncommon Cards LatestPrint Unique NotABG Nonempire OpenAPack artRandyTarkasHoar Errata  	<s><l>Open Persona Pack</l><f>/ap <k>9) Persona</k> <z>Reference</z> <q>1</q> <shuffle>no</shuffle> <c>yes</c></f></s>
 C1 Starving Artist (UE)	UE	C1_-_Starving_Artist_UE	V0		R/C1	Starving Artist	R/	C		1		 	[UE] Veryrare0 Cards LatestPrint Unique NotABG Nonempire artsomeguy  
 C1 Street People (Per)	Per	C1_-_Street_People_Per	U		R/C1	Street People	R/	C		1		 	[Per] Uncommon Cards LatestPrint Unique NotABG PropResourceHoser Nonempire artPatMorrissey  
 C1 Suark Breed (TG)	TG	C1_-_Suark_Breed_TG	U	Note 	C1	Suark Breed		C		1		 	[TG] Uncommon Cards LatestPrint Unique NotABG PropPlaycard PropSuark Nonempire artRobertA.Kraus Note  

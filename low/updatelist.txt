@@ -14,7 +14,7 @@ plugins/galacticempires/packs/packdefinitions4.xml	https://raw.githubusercontent
 plugins/galacticempires/packs/packdefinitions5.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions5.xml	3105085
 plugins/galacticempires/packs/packdefinitions6.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions6.xml	2103545
 plugins/galacticempires/packs/packdefinitions7.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions7.xml	1672862
-plugins/galacticempires/sets/carddata.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/carddata.txt	71349195
+plugins/galacticempires/sets/carddata.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/carddata.txt	71359569
 images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	-307373
 images/backgrounds/GEplaymat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat.jpg	-45446
 images/backgrounds/GEplaymat2.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat2.jpg	-85389
