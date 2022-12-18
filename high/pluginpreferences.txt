@@ -1,52 +1,64 @@
 <pluginpreferences>
 
-<lastversionupdate>221129</lastversionupdate>
+<lastversionupdate>221218</lastversionupdate>
+<lastuninstalldate>221129</lastuninstalldate>
 <counterstyleimagesizetextoverimage>15</counterstyleimagesizetextoverimage>
-<counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
+<counterstyleimagesizeimagesonly>15</counterstyleimagesizeimagesonly>
+<recentskins>Black_And_White2</recentskins>
 <recentskins>Black_And_White</recentskins>
+<recentskins>Cthulhu</recentskins>
 <recentskins>default_white</recentskins>
 <recentskins>vtes</recentskins>
 <recentskins>default</recentskins>
+<recenttablebackgrounds>GEplaymat3.jpg</recenttablebackgrounds>
 <recenttablebackgrounds>GEplaymat2.jpg</recenttablebackgrounds>
+<recentzonebackgrounds>starfield.png</recentzonebackgrounds>
 <recentzonebackgrounds>wide.jpg</recentzonebackgrounds>
-<recentzonebackgrounds>GEplaymat.jpg</recentzonebackgrounds>
-<canned>PoP? (Pass or Play?)</canned>
-<canned>Pass.</canned>
-<canned>Proceed.</canned>
-<canned>Thinking....</canned>
-<canned>Attack!</canned>
-<canned>In response...</canned>
-<canned>End of turn...</canned>
-<canned>Done.</canned>
-<canned>You done?</canned>
-<canned>Mulligan.</canned>
-<canned>MISE!</canned>
-<canned>/draw7</canned>
-<canned>/flip 1</canned>
-<canned>/roll</canned>
+<recentoutgoingsound>plugins/galacticempires/sounds/yay.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/shucks.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/welcome.wav</recentoutgoingsound>
+<recentoutgoingsound>sounds/shuffle.wav</recentoutgoingsound>
+<canned>(PoP?) Pass or Play?                          (passorplay.wav)</canned>
+<canned>Attack!                                       (attack.wav)</canned>
+<canned>Pass                                          (pass.wav)</canned>
+<canned>Proceed                                       (proceed.wav)</canned>
+<canned>Thinking...                                   (thinking.wav)</canned>
+<canned>Hold on...                                    (holdon.wav)</canned>
+<canned>(EoT) At end of turn...                       (atendofturn.wav)</canned>
+<canned>In response...                                (inresponse.wav)</canned>
+<canned>Your turn...                                  (yourturn.wav)</canned>
+<canned>Done.                                         (done.wav)</canned>
+<canned>Yay!                                          (yay.wav)</canned>
 <canned>/clear</canned>
-<canned>/draw7</canned>
-<canned>/rolld20</canned>
-<canned>/draw6</canned>
-<canned>/draw8</canned>
-<canned>Good game.</canned>
+<canned>shucks                                        (shucks.wav)</canned>
+<canned>Good Game                                     (goodgame.wav)</canned>
+<canned>!d6!/rolld6</canned>
+<canned>!d8!/rolld8</canned>
+<canned>!d10!/rolld10</canned>
+<canned>!d12!/rolld12</canned>
+<canned>!Add Persona Pack to Removed!/ap <k>9) Persona</k><zone>Removed</zone></canned>
+<canned>!Add 1 of Each Pack!/ap <k>2) Primary Edition</k><erase>yes</erase><zone>Hand</zone>;/ap <k>3) New Empires</k><zone>Hand</zone>;/ap <k>4) Powers of the Mind</k><zone>Hand</zone>;/ap <k>5) Time Gates</k><zone>Hand</zone>;/ap <k>U) Universe Edition</k><zone>Hand</zone>;/ap <k>6) Advanced Technologies</k><zone>Hand</zone>;/ap <k>7) Piracy</k><zone>Hand</zone>;/ap <k>9) Persona</k><zone>Hand</zone>;/ap <k>10) Galactic Invaders Booster</k><zone>Hand</zone>;/copyzonetocardpool</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
 <fontkind0pos1>Amaranth.ttf</fontkind0pos1>
 <fontkind0pos2>Roboto-Light_0.ttf</fontkind0pos2>
 <fontkind0pos3>times.ttf</fontkind0pos3>
+<fontkind0pos4>Play-Regular.ttf</fontkind0pos4>
 <fontkind1pos0>Lato-Reg.ttf</fontkind1pos0>
 <fontkind1pos1>Amaranth.ttf</fontkind1pos1>
 <fontkind1pos2>Roboto-Light_0.ttf</fontkind1pos2>
 <fontkind1pos3>times.ttf</fontkind1pos3>
+<fontkind1pos4>Play-Regular.ttf</fontkind1pos4>
 <fontkind2pos0>Lato-Reg.ttf</fontkind2pos0>
 <fontkind2pos1>Amaranth.ttf</fontkind2pos1>
 <fontkind2pos2>Roboto-Light_0.ttf</fontkind2pos2>
 <fontkind2pos3>times.ttf</fontkind2pos3>
-<fontkind3pos0>Roboto-Light_0.ttf</fontkind3pos0>
-<fontkind3pos1>times.ttf</fontkind3pos1>
-<fontkind3pos2>Lato-Reg.ttf</fontkind3pos2>
+<fontkind2pos4>Play-Regular.ttf</fontkind2pos4>
+<fontkind3pos0>Lato-Reg.ttf</fontkind3pos0>
+<fontkind3pos1>Roboto-Light_0.ttf</fontkind3pos1>
+<fontkind3pos2>times.ttf</fontkind3pos2>
 <fontkind3pos3>Amaranth.ttf</fontkind3pos3>
-<fontsize0>20</fontsize0>
+<fontkind3pos4>Play-Regular.ttf</fontkind3pos4>
+<fontsize0>16</fontsize0>
 <fontsize1>20</fontsize1>
 <fontsize2>15</fontsize2>
 <fontsize3>20</fontsize3>
@@ -76,20 +88,16 @@
 <bindinggeneral7>CTRL+LEFT</bindinggeneral7>
 <bindinggeneral8>CTRL+RIGHT</bindinggeneral8>
 <bindinggeneral9>CTRL+z</bindinggeneral9>
-<bindinggeneral10>META+RIGHT</bindinggeneral10>
-<bindinggeneral11>CTRL+w</bindinggeneral11>
-<bindinggeneral12>F10</bindinggeneral12>
-<bindinggeneral13>CTRL+ALT+1</bindinggeneral13>
 <bindingcard0>BACKSPACE</bindingcard0>
 <bindingcard1>ALT+q</bindingcard1>
-<bindingcard2>CTRL+EQUALS</bindingcard2>
-<bindingcard3>CTRL+MINUS</bindingcard3>
-<bindingcard4>META+MINUS</bindingcard4>
-<bindingcard5>CTRL+SHIFT+EQUALS</bindingcard5>
+<bindingcard2>CTRL+MINUS</bindingcard2>
+<bindingcard3>CTRL+EQUALS</bindingcard3>
+<bindingcard4>ALT+MINUS</bindingcard4>
+<bindingcard5>ALT+EQUALS</bindingcard5>
 <bindingcard6>CTRL+SHIFT+MINUS</bindingcard6>
-<bindingcard7>CTRL+a</bindingcard7>
-<bindingcard8>CTRL+t</bindingcard8>
-<bindingcard9>ALT+s</bindingcard9>
+<bindingcard7>CTRL+SHIFT+EQUALS</bindingcard7>
+<bindingcard8>SHIFT+ALT+MINUS</bindingcard8>
+<bindingcard9>SHIFT+ALT+EQUALS</bindingcard9>
 <bindingcard10>META+b</bindingcard10>
 <bindingcard11>ALT+d</bindingcard11>
 <bindingcard12>CTRL+SHIFT+d</bindingcard12>
@@ -105,14 +113,15 @@
 <bindingcanned6>CTRL+7</bindingcanned6>
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
+<bindingcanned9>CTRL+0</bindingcanned9>
 <bindingcanned11>CTRL+SHIFT+1</bindingcanned11>
 <bindingcanned12>CTRL+SHIFT+3</bindingcanned12>
-<bindingcanned13>CTRL+0</bindingcanned13>
+<bindingcanned13>CTRL+SHIFT+5</bindingcanned13>
 <libraryignoredoubles>1</libraryignoredoubles>
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
-<scalefactor>2.050000</scalefactor>
+<scalefactor>1.500000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
 <panx>-0.030000</panx>
@@ -120,5 +129,6 @@
 <tilt>26.000000</tilt>
 <prevtilt>26.000000</prevtilt>
 <isdownloadallmissing>1</isdownloadallmissing>
+<isusingscripts>0</isusingscripts>
 
 </pluginpreferences>

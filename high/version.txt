@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>221212</lastupdateYYMMDD>
+<lastupdateYYMMDD>221218</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/updatelist.txt</updateurl>
-<message>Changed Promo cards to be in individual sets (Pro0 to Pro8). You will need to redownload these card images.</message>
+<message>Added a couple new playmats and more counters for the cards.</message>
 
 </version>

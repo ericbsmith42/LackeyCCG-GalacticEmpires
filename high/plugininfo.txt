@@ -54,6 +54,13 @@
 <cardfunction><label>Turn -1</label><kind>REMOVECOUNTER</kind><color>violet</color><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Turn +1</label><kind>ADDCOUNTER</kind><color>violet</color><includeasbutton>yes</includeasbutton><PositionX>.85</PositionX><PositionY>.50</PositionY></cardfunction>
 
+<cardfunction><label>Heavy Weapon -1</label><kind>REMOVECOUNTER</kind><color>indigo</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Heavy Weapon +1</label><kind>ADDCOUNTER</kind><color>indigo</color><includeasbutton>yes</includeasbutton><PositionX>.15</PositionX><PositionY>.06</PositionY></cardfunction>
+<cardfunction><label>Other Counter -1</label><kind>REMOVECOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Other Counter +1</label><kind>ADDCOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.06</PositionY></cardfunction>
+<cardfunction><label>Phaser -1</label><kind>REMOVECOUNTER</kind><color>black</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Phaser +1</label><kind>ADDCOUNTER</kind><color>black</color><includeasbutton>yes</includeasbutton><PositionX>.85</PositionX><PositionY>.06</PositionY></cardfunction>
+
 <cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
 <cardfunction><label>Flip Card</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Doesn't Flip</label><kind>TOGGLETURNALLIMMUNITY</kind></cardfunction>
