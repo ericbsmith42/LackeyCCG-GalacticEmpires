@@ -6,7 +6,7 @@ plugins/galacticempires/defaultchat.txt https://raw.githubusercontent.com/ericbs
 plugins/galacticempires/uninstall.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/uninstall.txt	12999
 plugins/galacticempires/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/pluginpreferences.txt	0
 plugins/galacticempires/bot.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/bot.jpg	-5066
-plugins/galacticempires/plugininfo.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/plugininfo.txt	555013
+plugins/galacticempires/plugininfo.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/plugininfo.txt	647420
 plugins/galacticempires/packs/packdefinitions1.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions1.xml	582824
 plugins/galacticempires/packs/packdefinitions2.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions2.xml	3196588
 plugins/galacticempires/packs/packdefinitions3.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions3.xml	404517
@@ -17,7 +17,10 @@ plugins/galacticempires/packs/packdefinitions7.xml	https://raw.githubusercontent
 plugins/galacticempires/sets/carddata.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/sets/carddata.txt	71530278
 images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GE_Tufor_vs_Clydon_playmat.jpg	-307373
 images/backgrounds/GEplaymat.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat.jpg	-45446
-images/backgrounds/GEplaymat2.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat2.jpg	-85389
+images/backgrounds/GEplaymat2.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat2.jpg	-695934
+images/backgrounds/GEplaymat3.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat3.jpg	-834469
+images/backgrounds/GEplaymat4.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat4.jpg	-85389
+images/backgrounds/GEplaymat5.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat5.jpg	2469
 images/backgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/starfield.png	-49421
 images/zonebackgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/zonebackgrounds/starfield.png	-4411
 plugins/galacticempires/GERulebookV2.0.pdf	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/GERulebookV2.0.pdf	8838841
