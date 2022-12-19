@@ -23,6 +23,11 @@ images/backgrounds/GEplaymat4.jpg	https://raw.githubusercontent.com/ericbsmith42
 images/backgrounds/GEplaymat5.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/GEplaymat5.jpg	2469
 images/backgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/backgrounds/starfield.png	-49421
 images/zonebackgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/zonebackgrounds/starfield.png	-4411
+images/zonebackgrounds/GE_NewEmpires.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/zonebackgrounds/GE_NewEmpires.jpg	-61382
+images/zonebackgrounds/GE_Piracy.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/zonebackgrounds/GE_Piracy.jpg	-149832
+images/zonebackgrounds/GE_PowersOfTheMind.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/zonebackgrounds/GE_PowersOfTheMind.jpg	-49112
+images/zonebackgrounds/GE_PrimaryEdition.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/zonebackgrounds/GE_PrimaryEdition.jpg	-44411
+images/zonebackgrounds/GE_Timegates.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/images/zonebackgrounds/GE_Timegates.jpg	-47984
 plugins/galacticempires/GERulebookV2.0.pdf	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/GERulebookV2.0.pdf	8838841
 plugins/galacticempires/decks/Basic_Deck_A.dek	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/decks/Basic_Deck_A.dek	431496
 plugins/galacticempires/decks/Basic_Deck_A_Argonian.dek	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/decks/Basic_Deck_A_Argonian.dek	417696
