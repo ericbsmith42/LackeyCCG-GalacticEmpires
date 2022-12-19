@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>221218</lastversionupdate>
+<lastversionupdate>221219</lastversionupdate>
 <lastuninstalldate>221129</lastuninstalldate>
 <counterstyleimagesizetextoverimage>15</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>15</counterstyleimagesizeimagesonly>
@@ -12,6 +12,10 @@
 <recentskins>default</recentskins>
 <recenttablebackgrounds>GEplaymat3.jpg</recenttablebackgrounds>
 <recenttablebackgrounds>GEplaymat2.jpg</recenttablebackgrounds>
+<recentzonebackgrounds>GE_PrimaryEdition.jpg</recentzonebackgrounds>
+<recentzonebackgrounds>GE_NewEmpires.jpg</recentzonebackgrounds>
+<recentzonebackgrounds>GE_Timegates.jpg</recentzonebackgrounds>
+<recentzonebackgrounds>GE_Piracy.jpg</recentzonebackgrounds>
 <recentzonebackgrounds>starfield.png</recentzonebackgrounds>
 <recentzonebackgrounds>wide.jpg</recentzonebackgrounds>
 <recentoutgoingsound>plugins/galacticempires/sounds/yay.wav</recentoutgoingsound>
