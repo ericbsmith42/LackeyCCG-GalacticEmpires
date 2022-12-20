@@ -1,5 +1,18 @@
 <packdefinitions version="1.0">
 
+<pack><packtitle>1) Alpha Box</packtitle>
+	<packimage>Series_1_BE_Booster_Cover</packimage>
+	<packformat>$88.20</packformat>
+	<packkind>Booster Box</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>AL</data></packcommoncrit>
+		<chance>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>144</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>180</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+		</chance>
+</pack>
+
 <pack><packtitle>1) Beta Box</packtitle>
 	<packimage>Series_1_BE_Booster_Cover</packimage>
 	<packformat>$88.20</packformat>
@@ -7,10 +20,9 @@
 	<packdoubles>yes</packdoubles>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>BE</data></packcommoncrit>
 		<chance>
-			<kind><qty>36</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
-			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
-			<kind><qty>108</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
-			<kind><qty>144</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>144</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>180</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
 		</chance>
 </pack>
 
