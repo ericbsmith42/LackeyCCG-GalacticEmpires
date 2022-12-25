@@ -5,7 +5,7 @@ plugins/galacticempires/sets/setimages/general/cardback.jpg	https://raw.githubus
 plugins/galacticempires/fonts/GE-Insignia.ttf	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/fonts/GE-Insignia.ttf	75390
 plugins/galacticempires/defaultchat.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/defaultchat.txt	107435
 plugins/galacticempires/uninstall.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/uninstall.txt	12999
-plugins/galacticempires/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/pluginpreferences.txt	0
+plugins/galacticempires/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/pluginpreferences.txt	1
 plugins/galacticempires/bot.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/bot.jpg	-5066
 plugins/galacticempires/plugininfo.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/plugininfo.txt	647420
 plugins/galacticempires/packs/packdefinitions1.xml	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/high/packs/packdefinitions1.xml	673760
