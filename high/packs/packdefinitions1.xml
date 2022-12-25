@@ -30,7 +30,7 @@
 	<packkind>Booster Pack</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>PE</data></packcommoncrit>
 		<chance>
-			<prob>48</prob>
+			<prob>26</prob>
 			<kind><qty>1</qty>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>C</data></crit>
@@ -41,7 +41,19 @@
 			<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
 		</chance>
 		<chance>
-			<prob>52</prob>
+			<prob>22</prob>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>C</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>R</data></crit>
+			</kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>VC</data></crit></kind>
+		</chance>
+		<chance>
+			<prob>29</prob>
 			<kind><qty>1</qty>
 				<crit><field>Rarity</field><eval>CONTAINS</eval><data>V</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>VC</data></crit>
@@ -49,6 +61,17 @@
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+		</chance>
+		<chance>
+			<prob>23</prob>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>V</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>VC</data></crit>
+			</kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>VC</data></crit></kind>
 		</chance>
 </pack>
 
