@@ -370,11 +370,12 @@
 	<packkind>Booster Box</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>AT</data></packcommoncrit>
 		<chance>
-			<prob>16</prob>
+			<prob>32</prob>
 			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
  			<kind><qty>23</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
  			<kind><qty>23</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
- 			<kind><qty>23</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
+ 			<kind><qty>21</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
 
 			<kind><qty>21</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 			<kind><qty>21</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
@@ -413,11 +414,12 @@
 			<kind><qty>18</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
 		</chance>
 		<chance>
-			<prob>84</prob>
+			<prob>68</prob>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
  			<kind><qty>23</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
  			<kind><qty>23</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
- 			<kind><qty>24</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
+ 			<kind><qty>22</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
 
 			<kind><qty>21</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
 			<kind><qty>21</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
