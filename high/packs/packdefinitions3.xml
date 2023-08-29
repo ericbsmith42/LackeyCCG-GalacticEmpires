@@ -78,7 +78,7 @@
 		</chance>
 </pack>
 
-<pack><packtitle>10) Galactic Invaders Booster</packtitle>
+<pack><packtitle>10) Galactic Invaders</packtitle>
 	<packimage>Series_10_GI_Booster_Pack</packimage>
 	<packformat>$0.99</packformat>
 	<packkind>Booster Pack</packkind>
@@ -86,7 +86,11 @@
 		<chance>
 			<prob>1</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>2</data></crit>
+				<crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>HQ</data></crit>
+			</kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 		</chance>
 		<chance>
 			<prob>4</prob>
@@ -94,12 +98,56 @@
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit>
 				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>2</data></crit>
 			</kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>2</data></crit>
+				<crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>HQ</data></crit>
+			</kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 		</chance>
 		<chance>
-			<prob>95</prob>
+			<prob>27</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
-			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>CONTAINS</eval><data>2</data></crit>
+				<crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>HQ</data></crit>
+			</kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+		</chance>
+		<chance>
+			<prob>7</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>IS</eval><data>C2</data></crit>
+				<crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>HQ</data></crit>
+			</kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+		</chance>
+		<chance>
+			<prob>10</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>IS</eval><data>U2</data></crit>
+				<crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>HQ</data></crit>
+			</kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+		</chance>
+		<chance>
+			<prob>33</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>IS</eval><data>R2</data></crit>
+				<crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>HQ</data></crit>
+			</kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
+		</chance>
+		<chance>
+			<prob>18</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V0</data></crit></kind>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>IS</eval><data>V2</data></crit>
+				<crit><field>Type</field><eval>DOESNTCONTAIN</eval><data>HQ</data></crit>
+			</kind>
+			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U0</data></crit></kind>
 		</chance>
 </pack>
 

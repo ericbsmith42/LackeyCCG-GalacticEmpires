@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>221219</lastversionupdate>
+<lastversionupdate>230829</lastversionupdate>
 <lastuninstalldate>221129</lastuninstalldate>
 <counterstyleimagesizetextoverimage>15</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>15</counterstyleimagesizeimagesonly>
@@ -18,9 +18,20 @@
 <recentzonebackgrounds>GE_Piracy.jpg</recentzonebackgrounds>
 <recentzonebackgrounds>starfield.png</recentzonebackgrounds>
 <recentzonebackgrounds>wide.jpg</recentzonebackgrounds>
-<recentoutgoingsound>plugins/galacticempires/sounds/yay.wav</recentoutgoingsound>
-<recentoutgoingsound>plugins/galacticempires/sounds/shucks.wav</recentoutgoingsound>
 <recentoutgoingsound>plugins/galacticempires/sounds/welcome.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/pass.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/attack.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/proceed.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/thinking.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/holdon.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/atendofturn.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/inresponse.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/yourturn.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/done.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/yay.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/passorplay.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/shucks.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/galacticempires/sounds/goodgame.wav</recentoutgoingsound>
 <recentoutgoingsound>sounds/shuffle.wav</recentoutgoingsound>
 <canned>(PoP?) Pass or Play?                          (passorplay.wav)</canned>
 <canned>Attack!                                       (attack.wav)</canned>
@@ -44,12 +55,28 @@
 <canned>!Add 1 of Each Pack!/ap <k>2) Primary Edition</k><erase>yes</erase><zone>Hand</zone>;/ap <k>3) New Empires</k><zone>Hand</zone>;/ap <k>4) Powers of the Mind</k><zone>Hand</zone>;/ap <k>5) Time Gates</k><zone>Hand</zone>;/ap <k>U) Universe Edition</k><zone>Hand</zone>;/ap <k>6) Advanced Technologies</k><zone>Hand</zone>;/ap <k>7) Piracy</k><zone>Hand</zone>;/ap <k>9) Persona</k><zone>Hand</zone>;/ap <k>10) Galactic Invaders Booster</k><zone>Hand</zone>;/copyzonetocardpool</canned>
 <fontkind0pos0>GE-Insignia.ttf</fontkind0pos0>
 <fontkind0pos1>Lato-Reg.ttf</fontkind0pos1>
+<fontkind0pos2>Amaranth.ttf</fontkind0pos2>
+<fontkind0pos3>Play-Regular.ttf</fontkind0pos3>
+<fontkind0pos4>Roboto-Light_0.ttf</fontkind0pos4>
+<fontkind0pos5>times.ttf</fontkind0pos5>
 <fontkind1pos0>GE-Insignia.ttf</fontkind1pos0>
 <fontkind1pos1>Lato-Reg.ttf</fontkind1pos1>
+<fontkind1pos2>Amaranth.ttf</fontkind1pos2>
+<fontkind1pos3>Play-Regular.ttf</fontkind1pos3>
+<fontkind1pos4>Roboto-Light_0.ttf</fontkind1pos4>
+<fontkind1pos5>times.ttf</fontkind1pos5>
 <fontkind2pos0>GE-Insignia.ttf</fontkind2pos0>
 <fontkind2pos1>Lato-Reg.ttf</fontkind2pos1>
+<fontkind2pos2>Amaranth.ttf</fontkind2pos2>
+<fontkind2pos3>Play-Regular.ttf</fontkind2pos3>
+<fontkind2pos4>Roboto-Light_0.ttf</fontkind2pos4>
+<fontkind2pos5>times.ttf</fontkind2pos5>
 <fontkind3pos0>GE-Insignia.ttf</fontkind3pos0>
 <fontkind3pos1>Lato-Reg.ttf</fontkind3pos1>
+<fontkind3pos2>Amaranth.ttf</fontkind3pos2>
+<fontkind3pos3>Play-Regular.ttf</fontkind3pos3>
+<fontkind3pos4>Roboto-Light_0.ttf</fontkind3pos4>
+<fontkind3pos5>times.ttf</fontkind3pos5>
 <fontsize0>16</fontsize0>
 <fontsize1>20</fontsize1>
 <fontsize2>15</fontsize2>
@@ -106,9 +133,16 @@
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
 <bindingcanned9>CTRL+0</bindingcanned9>
+<bindingcanned10>CTRL+ALT+1</bindingcanned10>
 <bindingcanned11>CTRL+SHIFT+1</bindingcanned11>
 <bindingcanned12>CTRL+SHIFT+3</bindingcanned12>
 <bindingcanned13>CTRL+SHIFT+5</bindingcanned13>
+<bindingcanned14>CTRL+ALT+5</bindingcanned14>
+<bindingcanned15>CTRL+ALT+6</bindingcanned15>
+<bindingcanned16>CTRL+ALT+7</bindingcanned16>
+<bindingcanned17>CTRL+ALT+8</bindingcanned17>
+<bindingcanned18>CTRL+ALT+9</bindingcanned18>
+<bindingcanned19>CTRL+ALT+0</bindingcanned19>
 <libraryignoredoubles>1</libraryignoredoubles>
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
@@ -121,6 +155,6 @@
 <tilt>26.000000</tilt>
 <prevtilt>26.000000</prevtilt>
 <isdownloadallmissing>1</isdownloadallmissing>
-<isusingscripts>1</isusingscripts>
+<isusingscripts>0</isusingscripts>
 
 </pluginpreferences>
