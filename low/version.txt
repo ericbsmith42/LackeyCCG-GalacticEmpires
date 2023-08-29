@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>230123</lastupdateYYMMDD>
+<lastupdateYYMMDD>230829</lastupdateYYMMDD>
 <quality>LOW</quality>
 <versionurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/updatelist.txt</updateurl>
-<message>Tweaked Pack Defs for AT set. Added a couple new playmats, zone bakgrounds, and more counters for the cards. Fixed Alpha/Beta card rarity. Added Random Starters to Deck Builder Card Pool.</message>
+<message>Fixed a couple minor errors. Updated Pack Def. for Galatic Invaders.</message>
 
 </version>
