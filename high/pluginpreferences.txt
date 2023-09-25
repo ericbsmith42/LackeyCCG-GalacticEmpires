@@ -1,6 +1,6 @@
 <pluginpreferences>
 
-<lastversionupdate>230829</lastversionupdate>
+<lastversionupdate>230925</lastversionupdate>
 <lastuninstalldate>221129</lastuninstalldate>
 <counterstyleimagesizetextoverimage>15</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>15</counterstyleimagesizeimagesonly>

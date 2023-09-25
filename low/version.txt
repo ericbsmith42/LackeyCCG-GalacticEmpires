@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>230829</lastupdateYYMMDD>
+<lastupdateYYMMDD>230925</lastupdateYYMMDD>
 <quality>LOW</quality>
 <versionurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-GalacticEmpires/main/low/updatelist.txt</updateurl>
-<message>Fixed a couple minor errors. Updated Pack Def. for Galatic Invaders.</message>
+<message>Fixed a couple minor errors. Updated Pack Def. for Galatic Invaders, Basic Deck A & B, and updated rarity of a couple cards.</message>
 
 </version>

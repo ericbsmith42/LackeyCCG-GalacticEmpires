@@ -1,10 +1,10 @@
 <packdefinitions version="1.0">
 
-<pack><packtitle>12) Mega Booster</packtitle>
-	<packimage>Series_0_Mega_Booster_Pack</packimage>
-	<packformat>$3.95</packformat>
-	<packkind>Promo Booster</packkind>
-	<packcommoncrit><field>Card tags</field><eval>DOESNTCONTAIN</eval><data>Reprinted</data></packcommoncrit>
+	<pack><packtitle>12) Mega Booster</packtitle>
+		<packimage>Series_0_Mega_Booster_Pack</packimage>
+		<packformat>$3.95</packformat>
+		<packkind>Promo Booster</packkind>
+		<packcommoncrit><field>Card tags</field><eval>DOESNTCONTAIN</eval><data>Reprinted</data></packcommoncrit>
 		<chance>
 			<prob>3</prob>
 			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
@@ -57,13 +57,13 @@
 				<crit><field>ST</field><eval>DOESNTCONTAIN</eval><data>10</data></crit>
 			</kind>
 		</chance>
-</pack>
+	</pack>
 
-<pack><packtitle>12) Mega Booster Box</packtitle>
-	<packimage>Series_0_Mega_Booster_Cover</packimage>
-	<packformat>$142.20</packformat>
-	<packkind>Promo Box</packkind>
-	<packcommoncrit><field>Card tags</field><eval>DOESNTCONTAIN</eval><data>Reprinted</data></packcommoncrit>
+	<pack><packtitle>12) Mega Booster Box</packtitle>
+		<packimage>Series_0_Mega_Booster_Cover</packimage>
+		<packformat>$142.20</packformat>
+		<packkind>Promo Box</packkind>
+		<packcommoncrit><field>Card tags</field><eval>DOESNTCONTAIN</eval><data>Reprinted</data></packcommoncrit>
 		<chance>
 			<prob>25</prob>
 			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
@@ -164,13 +164,13 @@
 				<crit><field>ST</field><eval>IS</eval><data>10</data></crit>
 			</kind>
 		</chance>
-</pack>
+	</pack>
 
-<pack><packtitle>12) Promo Booster</packtitle>
-	<packimage>Series_12_Pro_Booster_Pack</packimage>
-	<packformat>$5.95</packformat>
-	<packkind>Promo Booster</packkind>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>Pro</data></packcommoncrit>
+	<pack><packtitle>12) Promo Booster</packtitle>
+		<packimage>Series_12_Pro_Booster_Pack</packimage>
+		<packformat>$5.95</packformat>
+		<packkind>Promo Booster</packkind>
+		<packcommoncrit><field>Set</field><eval>IS</eval><data>Pro</data></packcommoncrit>
 		<chance>
 			<prob>2</prob>
 			<kind><qty>1</qty><crit><field>ST</field><eval>IS</eval><data>1</data></crit></kind>
@@ -223,14 +223,14 @@
 			<kind><qty>1</qty><crit><field>ST</field><eval>IS</eval><data>9</data></crit></kind>
 		</chance>
 
-</pack>
+	</pack>
 
-<pack><packtitle>12) Promo Booster Box</packtitle>
-	<packimage>Series_12_Pro_Booster_Pack</packimage>
-	<packformat>$214.20</packformat>
-	<packkind>Promo Box</packkind>
-	<packdoubles>yes</packdoubles>
-	<packcommoncrit><field>Set</field><eval>CONTAINS</eval><data>Pro</data></packcommoncrit>
+	<pack><packtitle>12) Promo Booster Box</packtitle>
+		<packimage>Series_12_Pro_Booster_Pack</packimage>
+		<packformat>$214.20</packformat>
+		<packkind>Promo Box</packkind>
+		<packdoubles>yes</packdoubles>
+		<packcommoncrit><field>Set</field><eval>CONTAINS</eval><data>Pro</data></packcommoncrit>
 		<chance>
 			<prob>11</prob>
 			<kind><qty>36</qty><crit><field>ST</field><eval>IS</eval><data>1</data></crit></kind>
@@ -348,6 +348,6 @@
 			<kind><qty>36</qty><crit><field>ST</field><eval>IS</eval><data>9</data></crit></kind>
 			<kind><qty>1</qty><crit><field>ST</field><eval>IS</eval><data>10</data></crit></kind>
 		</chance>
-</pack>
+	</pack>
 
 </packdefinitions>

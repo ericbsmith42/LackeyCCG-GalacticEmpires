@@ -53,4 +53,8 @@
 		<card><name id="C1_-_Crewman_PE">C1 Crewman (PE)</name><set>PE</set></card>
 		<card><name id="C1_-_Boarding_Party_PE">C1 Boarding Party (PE)</name><set>PE</set></card>
 	</superzone>
+	<superzone name="Reference">
+		<card><name id="HQ25_-_Sector_HQ_Pro8">HQ25 Sector HQ (Pro)</name><set>Pro8</set></card>
+		<card><name id="Point_Symbols_PE">Spcl Point Symbols (PE)</name><set>PE</set></card>
+	</superzone>
 </deck>

@@ -284,11 +284,11 @@
 			<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
 
 			<kind><qty>9</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>3</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>9</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C3</data></crit></kind>
+			<kind><qty>9</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>7</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
 
 			<kind><qty>12</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>4</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>
@@ -349,11 +349,11 @@
 			<kind><qty>3</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R2</data></crit></kind>
 
 			<kind><qty>9</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>3</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
-			<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
+			<kind><qty>9</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C3</data></crit></kind>
+			<kind><qty>9</qty><crit><field>Rarity</field><eval>IS</eval><data>U3</data></crit></kind>
+			<kind><qty>7</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>R3</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V3</data></crit></kind>
 
 			<kind><qty>12</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>4</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U4</data></crit></kind>

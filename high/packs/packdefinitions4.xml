@@ -64,16 +64,12 @@
 	
 		<chance>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
-			<kind><qty>34</qty>
+			<kind><qty>35</qty>
 				<crit><field>Rarity</field><eval>IS</eval><data>CA</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>PE</data></crit>
 			</kind>
-			<kind><qty>14</qty>
+			<kind><qty>15</qty>
 				<crit><field>Rarity</field><eval>IS</eval><data>VCAB</data></crit>
-				<crit><field>Set</field><eval>IS</eval><data>PE</data></crit>
-			</kind>
-			<kind><qty>2</qty>
-				<crit><field>Rarity</field><eval>IS</eval><data>CAB</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>PE</data></crit>
 			</kind>
 			<kind><qty>5</qty>
@@ -89,16 +85,12 @@
 	<packkind>Starter</packkind>
 		<chance>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
-			<kind><qty>34</qty>
-				<crit><field>Rarity</field><eval>IS</eval><data>CA</data></crit>
+			<kind><qty>35</qty>
+				<crit><field>Rarity</field><eval>IS</eval><data>CB</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>PE</data></crit>
 			</kind>
-			<kind><qty>14</qty>
+			<kind><qty>15</qty>
 				<crit><field>Rarity</field><eval>IS</eval><data>VCAB</data></crit>
-				<crit><field>Set</field><eval>IS</eval><data>PE</data></crit>
-			</kind>
-			<kind><qty>2</qty>
-				<crit><field>Rarity</field><eval>IS</eval><data>CAB</data></crit>
 				<crit><field>Set</field><eval>IS</eval><data>PE</data></crit>
 			</kind>
 			<kind><qty>5</qty>
@@ -520,9 +512,9 @@
 	<packdoubles>yes</packdoubles>
 		<chance>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>T/B5 Vektrean Asteroid Outpost (UE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T/B5 Vektrean Asteroid Outpost (UE)</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Repulsion Beam (UE)</data></crit></kind>
-			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S2 Vektrean Frigate (UE)</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>S2 Vektrean Frigate (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S3 Vektrean Destroyer (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S4 Vektrean Light Cruiser (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S5 Vektrean Heavy Cruiser (UE)</data></crit></kind>
@@ -899,9 +891,9 @@
 		<chance>
 			<prob>10</prob>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>T/B5 Vektrean Asteroid Outpost (UE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T/B5 Vektrean Asteroid Outpost (UE)</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Repulsion Beam (UE)</data></crit></kind>
-			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S2 Vektrean Frigate (UE)</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>S2 Vektrean Frigate (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S3 Vektrean Destroyer (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S4 Vektrean Light Cruiser (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S5 Vektrean Heavy Cruiser (UE)</data></crit></kind>
@@ -2942,9 +2934,9 @@
 		<chance>
 			<prob>4</prob>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>T/B5 Vektrean Asteroid Outpost (UE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T/B5 Vektrean Asteroid Outpost (UE)</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Repulsion Beam (UE)</data></crit></kind>
-			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S2 Vektrean Frigate (UE)</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>S2 Vektrean Frigate (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S3 Vektrean Destroyer (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S4 Vektrean Light Cruiser (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S5 Vektrean Heavy Cruiser (UE)</data></crit></kind>
@@ -3851,9 +3843,9 @@
 		<chance>
 			<prob>8</prob>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
-			<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>T/B5 Vektrean Asteroid Outpost (UE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>T/B5 Vektrean Asteroid Outpost (UE)</data></crit></kind>
 			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>E2 Repulsion Beam (UE)</data></crit></kind>
-			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S2 Vektrean Frigate (UE)</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>S2 Vektrean Frigate (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S3 Vektrean Destroyer (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S4 Vektrean Light Cruiser (UE)</data></crit></kind>
 			<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>S5 Vektrean Heavy Cruiser (UE)</data></crit></kind>

@@ -24,7 +24,6 @@
 		<card><name id="M1_-_Small_Phaser_Eel_PE">M1 Small Phaser Eel (PE)</name><set>PE</set></card>
 		<card><name id="M2_-_Space_Vertigo_PE">M2 Space Vertigo (PE)</name><set>PE</set></card>
 		<card><name id="M3_-_Invinco_Guardian_PE">M3 Invinco Guardian (PE)</name><set>PE</set></card>
-		<card><name id="M3_-_Shield_Fiend_PE">M3 Shield Fiend (PE)</name><set>PE</set></card>
 		<card><name id="O1_-_Illness_PE">O1 Illness (PE)</name><set>PE</set></card>
 		<card><name id="O3_-_Forced_Retreat_PE">O3 Forced Retreat (PE)</name><set>PE</set></card>
 		<card><name id="S1_-_Fleet_Freighter_Left_PE">S1 Fleet Freighter [Left] (PE)</name><set>PE</set></card>
@@ -49,5 +48,10 @@
 		<card><name id="T4_-_Small_Planet_-_Siobhan-7_PE">T4 Small Planet - Siobhan-7 (PE)</name><set>PE</set></card>
 		<card><name id="T4_-_Small_System_-_Rabuff_Locttoor_PE">T4 Small System - Rabuff Locttoor (PE)</name><set>PE</set></card>
 		<card><name id="T5_-_Small_System_-_Hcsuar-Drahcir_System_PE">T5 Small System - Hcsuar-Drahcir System (PE)</name><set>PE</set></card>
+		<card><name id="E2_-_Nuclear_Mine_PE">E2 Nuclear Mine (PE)</name><set>PE</set></card>
+	</superzone>
+	<superzone name="Reference">
+		<card><name id="HQ25_-_Sector_HQ_Pro8">HQ25 Sector HQ (Pro)</name><set>Pro8</set></card>
+		<card><name id="Point_Symbols_PE">Spcl Point Symbols (PE)</name><set>PE</set></card>
 	</superzone>
 </deck>
