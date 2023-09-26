@@ -75,6 +75,29 @@
 		</chance>
 </pack>
 
+<pack><packtitle>G) German Gold Border</packtitle>
+	<packimage>Series_G_GGB_German_Gold_Border_Booster_Pack</packimage>
+	<packformat>$2.45</packformat>
+	<packkind>Booster Pack</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>GGB</data></packcommoncrit>
+		<chance>
+			<prob>40</prob>
+			<kind><qty>1</qty>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>U</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>C</data></crit>
+				<crit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Pro0</data></crit>
+			</kind>
+			<kind><qty>7</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		</chance>
+		<chance>
+			<prob>60</prob>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>7</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		</chance>
+</pack>
+
 <pack><packtitle>3) New Empires</packtitle>
 	<packimage>Series_3_NE_Booster_Pack</packimage>
 	<packformat>$2.45</packformat>

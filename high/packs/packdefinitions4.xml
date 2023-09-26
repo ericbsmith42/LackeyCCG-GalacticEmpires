@@ -100,6 +100,43 @@
 		</chance>
 </pack>
 
+<pack><packtitle>G) Basic Deck A German Gold Border</packtitle>
+	<packimage>Series_G_GGB_Basic_Deck_A_Front</packimage>
+	<packformat>$8.95</packformat>
+	<packkind>Starter</packkind>
+	
+		<chance>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>50</qty>
+				<crit><field>Rarity</field><eval>IS</eval><data>CA</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>GGB</data></crit>
+			</kind>
+			<kind><qty>5</qty>
+				<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>GGB</data></crit>
+			</kind>
+		</chance>
+</pack>
+
+<pack><packtitle>G) Basic Deck B German Gold Border</packtitle>
+	<packimage>Series_G_GGB_Basic_Deck_B_Front</packimage>
+	<packformat>$8.95</packformat>
+	<packkind>Starter</packkind>
+		<chance>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spcl Point Symbols (PE)</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>HQ25 Sector HQ (Pro)</data></crit></kind>
+			<kind><qty>50</qty>
+				<crit><field>Rarity</field><eval>IS</eval><data>CB</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>GGB</data></crit>
+			</kind>
+			<kind><qty>5</qty>
+				<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+				<crit><field>Set</field><eval>IS</eval><data>GGB</data></crit>
+			</kind>
+		</chance>
+</pack>
+
 <pack><packtitle>3) Basic Deck C New Empires</packtitle>
 	<packimage>Series_3_NE_Basic_Deck_C_Front</packimage>
 	<packformat>$6.95</packformat>

@@ -86,6 +86,28 @@
 		</chance>
 </pack>
 
+<pack><packtitle>G) German Gold Border Box</packtitle>
+	<packimage>Series_G_GGB_German_Gold_Border_Booster_Box</packimage>
+	<packformat>$88.20</packformat>
+	<packkind>Booster Box</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>GGB</data></packcommoncrit>
+		<chance>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>E</data></crit></kind>
+			<kind><qty>35</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>CONTAINS</eval><data>C</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		</chance>
+</pack>
+
 <pack><packtitle>3) New Empires Box</packtitle>
 	<packimage>Series_3_NE_Booster_Cover</packimage>
 	<packformat>$88.20</packformat>
